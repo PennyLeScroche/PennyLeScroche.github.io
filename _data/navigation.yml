@@ -1,0 +1,8 @@
+docs_list_title: Navigation
+docs:
+
+- title: Home
+  url: index.html
+
+- title: TTRPG Resources
+  url: ttrgpstuff.html
