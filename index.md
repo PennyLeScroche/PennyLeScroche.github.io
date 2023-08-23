@@ -1,3 +1,6 @@
+---
+title: PennyLeScroche
+---
 <table> 
 <tr>
     {% for item in site.data.navigation.docs %}
