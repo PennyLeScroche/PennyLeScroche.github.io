@@ -1,7 +1,7 @@
 <table> 
 <tr>
     {% for item in site.data.navigation.docs %}
-      <th><a href="{{ item.url }}">{{ item.title }}</a></th>
+      <th><a href="../{{ item.url }}">{{ item.title }}</a></th>
    {% endfor %}
 </tr>
 </table>
