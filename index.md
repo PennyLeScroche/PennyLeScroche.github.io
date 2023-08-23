@@ -6,6 +6,7 @@
 </tr>
 </table>
 # PennyLeScroche.github.io
+
 The Homepage of Penny LeScroche. A very queer asian american nerd. I mostly talk about TTRPG stuff, but occasionally delve into my other nerdy interests such as privacy, open source software, indie videogames, and fighting games.
 
 Socials
