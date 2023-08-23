@@ -1,9 +1,4 @@
-# PennyLeScroche.github.io
-The Homepage of Penny LeScroche. A very queer asian american nerd. I mostly talk about TTRPG stuff, but occasionally delve into my other nerdy interests such as privacy, open source software, indie videogames, and fighting games.
+https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
+https://www.markdownguide.org/tools/github-pages/
+theme: https://github.com/pages-themes/hacker
 
-Socials
-- [Mastodon](https://indiepocalypse.social/@pennylescroche)
-- [Cohost](https://cohost.org/pennylescroche)
-- [TikTok](https://tiktok.com/@pennylescroche)
-- [YouTube](https://youtube.com/@pennylescroche)
-- [Twitch](https://twitch.tv/pennylescroche)
