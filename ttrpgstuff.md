@@ -1,3 +1,10 @@
+<table> 
+<tr>
+    {% for item in site.data.navigation.docs %}
+      <th><a href="{{ item.url }}">{{ item.title }}</a></th>
+   {% endfor %}
+</tr>
+</table>
 # Tabletop Role Playing Guides
 
 I make resources for tabletop roleplaying games, take a look at some of them
