@@ -10,7 +10,7 @@
 I make resources for tabletop roleplaying games, take a look at some of them
 
 Written Guides
-- [How to play Cortex]
+- [How to play Cortex](./ttrpgstuff/howtoplaycortex)
 - [How Run and Hack Cortex]
 
 Video Guides
