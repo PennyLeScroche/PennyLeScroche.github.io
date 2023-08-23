@@ -2,7 +2,7 @@ docs_list_title: Navigation
 docs:
 
 - title: Home
-  url: index.html
+  url: index
 
 - title: TTRPG Resources
-  url: ttrgpstuff.html
+  url: ttrpgstuff
