@@ -2,10 +2,10 @@ docs_list_title: Navigation
 docs:
 
 - title: Home
-  url: index
+  url: https://pennylescroche.github.io/index
 
 - title: TTRPG Resources
-  url: ttrpgstuff
+  url: https://pennylescroche.github.io/ttrpgstuff
 
 - title: Games
-  url: games
+  url: https://pennylescroche.github.io/games
