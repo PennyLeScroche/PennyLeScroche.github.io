@@ -28,12 +28,12 @@
         </section>
       </div>
     </header>
-    <div style="display: grid;" class="container">
+    <div class="container">
       <section id="navigation">
         <table> 
         <tr>
             {% for item in site.data.navigation.docs %}
-              <th style="border:1px solid; text-align: center; witdh: calc(100%/3); min-width:80px"><a href="{{ item.url }}"><div>{{ item.title }}</div></a></th>
+              <th style="border:1px solid; border-color:#B5E853; text-align: center; witdh: calc(100%/{{ site.data.navigation.docs.length }}); min-width:80px"><a href="{{ item.url }}"><div>{{ item.title }}</div></a></th>
            {% endfor %}
         </tr>
         </table>
