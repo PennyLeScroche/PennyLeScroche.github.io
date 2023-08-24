@@ -13,7 +13,3 @@ Follow me on my Socials
 - [TikTok](https://tiktok.com/@pennylescroche)
 - [YouTube](https://youtube.com/@pennylescroche)
 - [Twitch](https://twitch.tv/pennylescroche)
-
-If you like my stuff [consider supporting me on my ko-fi](https://ko-fi.com/pennylescroche)
-
-
