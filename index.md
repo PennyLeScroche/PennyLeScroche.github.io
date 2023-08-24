@@ -1,7 +1,8 @@
-<table style="border:1px solid"> 
+<div style="display: grid; text-align: center;">
+<table> 
 <tr>
     {% for item in site.data.navigation.docs %}
-      <th  style="border:1px solid"><a href="{{ item.url }}">{{ item.title }}</a></th>
+      <th><a href="{{ item.url }}">{{ item.title }}</a></th>
    {% endfor %}
 </tr>
 </table>
