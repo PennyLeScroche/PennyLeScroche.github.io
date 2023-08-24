@@ -21,4 +21,6 @@ Follow me on my Socials
 - [YouTube](https://youtube.com/@pennylescroche)
 - [Twitch](https://twitch.tv/pennylescroche)
 
+If you like my stuff [consider supporting me on my ko-fi](https://ko-fi.com/pennylescroche)
+
 
