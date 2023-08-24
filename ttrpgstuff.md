@@ -23,4 +23,6 @@ Video Guides
 Other Stuff
 - [Titterpig Academy Discord](https://bit.ly/titterpig)
 - [Quest Character Keeper](https://docs.google.com/spreadsheets/d/1XSAJisPELpAplJueMqR7qhHex-FZnL8z6ztDafnC9fY/edit?usp=drive_link)
+
+Consider [supporting me on ko-fi](https://ko-fi.com/pennylescroche) so I can keep making stuff like this
   
