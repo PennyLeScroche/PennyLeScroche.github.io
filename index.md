@@ -2,7 +2,7 @@
 <table> 
 <tr>
     {% for item in site.data.navigation.docs %}
-      <a href="{{ item.url }}"><th style="border:1px solid; text-align: center; witdh: 20%; min-width:100px">{{ item.title }</th></a>
+      <a href="{{ item.url }}"><th style="border:1px solid; text-align: center; witdh: 20%; min-width:100px">{{ item.title }}</th></a>
    {% endfor %}
     <th style="border:1px solid; text-align: center; witdh: 20%; min-width:100px">Test</th>
     <th style="border:1px solid; text-align: center; witdh: 20%; min-width:100px">Tickle</th>
