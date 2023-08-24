@@ -28,14 +28,16 @@
         </section>
       </div>
     </header>
-    <div style="display: grid;" class="navigation">
-    <table> 
-    <tr>
-        {% for item in site.data.navigation.docs %}
-          <th style="border:1px solid; text-align: center; witdh: calc(100%/3); min-width:100px"><a href="{{ item.url }}"><div>{{ item.title }}</div></a></th>
-       {% endfor %}
-    </tr>
-    </table>
+    <div style="display: grid;" class="container">
+      <section id="navigation">
+        <table> 
+        <tr>
+            {% for item in site.data.navigation.docs %}
+              <th style="border:1px solid; text-align: center; witdh: calc(100%/3); min-width:80px"><a href="{{ item.url }}"><div>{{ item.title }}</div></a></th>
+           {% endfor %}
+        </tr>
+        </table>
+      </section>
     </div>
     <div class="container">
       <section id="main_content">
