@@ -2,8 +2,10 @@
 <table> 
 <tr>
     {% for item in site.data.navigation.docs %}
-      <th style="border:1px solid; text-align: center; witdh: 100/{{ site.data.navigation.docs.length }}%"><a href="{{ item.url }}">{{ item.title }}</a></th>
+      <th style="border:1px solid; text-align: center; witdh: 20%"><a href="{{ item.url }}">{{ item.title }}</a></th>
    {% endfor %}
+    <th style="border:1px solid; text-align: center; witdh: 20%">Test</th>
+    <th style="border:1px solid; text-align: center; witdh: 20%">Tickle</th>
 </tr>
 </table>
 </div>
