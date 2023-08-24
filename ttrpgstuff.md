@@ -14,10 +14,10 @@ Written Guides
 - [How Run and Hack Cortex]
 
 Video Guides
-- [Intro to TTRPGs]
-- [Intro to GMing]
-- [How to Write Adventures]
-- [How to Play GROK!?]
+- [Intro to TTRPGs](https://www.youtube.com/watch?v=_gsN7pd-MH8)
+- [Intro to GMing](https://www.youtube.com/watch?v=v_Re2VT2KHU)
+- [How to Write Adventures](https://www.youtube.com/watch?v=JjcrwJrfCCE)
+- [How to Play GROK!?](https://www.youtube.com/watch?v=4DZlGLMy-ek)
 - [How to Play Liminal Horror]
 
 Other Stuff
