@@ -1,6 +1,3 @@
----
-title: PennyLeScroche
----
 <table> 
 <tr>
     {% for item in site.data.navigation.docs %}
@@ -12,11 +9,17 @@ title: PennyLeScroche
 
 The Homepage of Penny LeScroche. A very queer asian american nerd. I mostly talk about TTRPG stuff, but occasionally delve into my other nerdy interests such as privacy, open source software, indie videogames, and fighting games.
 
-Socials
+There's a good chance you're here for the [Titterpig Academy Discord](https://bit.ly/titterpig). So go ahead and click that link. If that's not why you're here, maybe consider joining anyway. We're a bunch of cool people who are passionate about ttrpgs and want to help people learn them.
+
+I've got a [pronouns.page](en.pronouns.page/pennylescroche) if you want to know all my pronouns and what terms I'm comfortable with.
+
+I've also got an [itch](pennylescroche.itch.io) page where I put my games
+
+Follow me on my Socials
 - [Mastodon](https://indiepocalypse.social/@pennylescroche)
 - [Cohost](https://cohost.org/pennylescroche)
 - [TikTok](https://tiktok.com/@pennylescroche)
 - [YouTube](https://youtube.com/@pennylescroche)
 - [Twitch](https://twitch.tv/pennylescroche)
 
-There's a good chance you're here for the [Titterpig Academy Discord](https://bit.ly/titterpig). So go ahead and click that link. If that's not why you're here, maybe consider joining anyway. We're a bunch of cool people who are passionate about ttrpgs and want to help people learn them.
+
