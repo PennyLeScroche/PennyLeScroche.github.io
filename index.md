@@ -2,7 +2,7 @@
 <table> 
 <tr>
     {% for item in site.data.navigation.docs %}
-      <a href="{{ item.url }}"><div><th style="border:1px solid; text-align: center; witdh: calc(100%/3); min-width:100px">{{ item.title }}</th></div></a>
+      <th style="border:1px solid; text-align: center; witdh: calc(100%/3); min-width:100px"><a href="{{ item.url }}"><div>{{ item.title }}</div></a></th>
    {% endfor %}
 </tr>
 </table>
