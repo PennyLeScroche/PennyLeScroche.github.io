@@ -6,6 +6,8 @@
    {% endfor %}
 </tr>
 </table>
+</div>
+
 # Hi, I'm Khampheng,
 but you can call me Penny. I'm a very queer asian american nerd. I mostly talk about TTRPG stuff, but occasionally delve into my other nerdy interests such as privacy, open source software, indie videogames, and fighting games.
 
