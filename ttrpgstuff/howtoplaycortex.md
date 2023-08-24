@@ -1,10 +1,3 @@
-<table> 
-<tr>
-    {% for item in site.data.navigation.docs %}
-      <th><a href="../{{ item.url }}">{{ item.title }}</a></th>
-   {% endfor %}
-</tr>
-</table>
 # How to Play Cortex Prime
 
 Hello fellow nerds! I wanted to take a minute to break down one of my favorite TTRPGs: Cortex Prime. Cortex Prime is a toolkit system, which is both a strength and a weakness of the system. On the one hand, it can cover a huge variety of genres with all of its mods, on the other, it makes learning the game a bit intimidating, especially if all you have is the Cortex Prime core rulebook. 
