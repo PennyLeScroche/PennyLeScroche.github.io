@@ -1,13 +1,3 @@
-<div style="display: grid;">
-<table> 
-<tr>
-    {% for item in site.data.navigation.docs %}
-      <th style="border:1px solid; text-align: center; witdh: calc(100%/3); min-width:100px"><a href="{{ item.url }}"><div>{{ item.title }}</div></a></th>
-   {% endfor %}
-</tr>
-</table>
-</div>
-
 # Hi, I'm Khampheng,
 but you can call me Penny. I'm a very queer asian american nerd. I mostly talk about TTRPG stuff, but occasionally delve into my other nerdy interests such as privacy, open source software, indie videogames, and fighting games.
 
