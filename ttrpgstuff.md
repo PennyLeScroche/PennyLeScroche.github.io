@@ -16,6 +16,7 @@ Video Guides
 Other Stuff
 - [Titterpig Academy Discord](https://bit.ly/titterpig)
 - [Quest Character Keeper](https://docs.google.com/spreadsheets/d/1XSAJisPELpAplJueMqR7qhHex-FZnL8z6ztDafnC9fY/edit?usp=drive_link)
+- [Google Sheets consent sheet](https://docs.google.com/spreadsheets/d/1Pm0r9u0r0DvXZRWsyYH_6gyYkgADRsJIxUkFYepZS_U/edit?usp=sharing)
 
-Consider [supporting me on ko-fi](https://ko-fi.com/pennylescroche) so I can keep making stuff like this
+
   
