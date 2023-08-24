@@ -7,11 +7,8 @@
 </table>
 # How to Play Cortex Prime
 
-Hello fellow nerds! I wanted to take a minute to break down one of my favorite TTRPGs: Cortex Prime. Cortex Prime is a toolkit system, which is both a strength and a weakness of the system. On the one hand, it can cover a huge variety of genres with all of its mods, on the other, it makes learning the game a bit intimidating, especially if all you have is the Cortex Prime core rulebook. Click below for a long-ass post looking over some of the essentials
-
----
-
-Now, there are some ready to play games that use Cortex. Currently the only one in print is Tales of Xadia, but you may also be able to find used copies of Firefly, Smallville, Leverage, and Marvel Heroic Roleplaying.
+Hello fellow nerds! I wanted to take a minute to break down one of my favorite TTRPGs: Cortex Prime. Cortex Prime is a toolkit system, which is both a strength and a weakness of the system. On the one hand, it can cover a huge variety of genres with all of its mods, on the other, it makes learning the game a bit intimidating, especially if all you have is the Cortex Prime core rulebook. 
+Now, there are some ready to play games that use Cortex. Currently the only one in print from the Cortex team at direwolf is Tales of Xadia, but you may also be able to find used copies of Firefly, Smallville, Leverage, and Marvel Heroic Roleplaying. Additionally, there are third party Cortex Games that can be found on itch, such as Cortex Lite, Lifted, Keystone and the Cortex Xine.
 
 ### Characters
 
