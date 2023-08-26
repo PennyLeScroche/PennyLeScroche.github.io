@@ -11,7 +11,7 @@ Video Guides
 - [Intro to GMing](https://www.youtube.com/watch?v=v_Re2VT2KHU)
 - [How to Write Adventures](https://www.youtube.com/watch?v=JjcrwJrfCCE)
 - [How to Play GROK!?](https://www.youtube.com/watch?v=4DZlGLMy-ek)
-- [How to Play Liminal Horror]
+- [How to Play Liminal Horror](https://youtu.be/vJ9MfG7q1wo)
 
 Other Stuff
 - [Titterpig Academy Discord](https://bit.ly/titterpig)
