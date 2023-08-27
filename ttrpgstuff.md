@@ -1,4 +1,4 @@
-# Tabletop Role Playing Guides
+# TTRPG Resources
 
 I make resources for tabletop roleplaying games, take a look at some of them
 
