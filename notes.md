@@ -82,3 +82,7 @@ What 3 things are you bringing with you
 Harm can only be reduced through a specific action, or through rest. A short rest is a few minutes and can reduce a harm track by one. A long rest is a full night and can reduce each harm track by one. You can take an action appropriate for each harm track to try and reduce it, but failure means increasing it.
 
 If Harm is raised above a d12, that character is incapacitated and takes on or raises a negative aspect. An incapacitated character is retired if they are not removed from that situation. An incapacitated character cannot act on their own.
+
+### Tension Die
+
+this is a. optional die that represents the constant tension and risk involved in an investigation. Like all other dice, it can be anywhere from a d4 to a d12. Unlike other dice, it cannot be stepped down, and is constant until an investigation is complete 
