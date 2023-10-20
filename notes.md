@@ -86,3 +86,7 @@ If Harm is raised above a d12, that character is incapacitated and takes on or r
 ### Tension Die
 
 this is a. optional die that represents the constant tension and risk involved in an investigation. Like all other dice, it can be anywhere from a d4 to a d12. Unlike other dice, it cannot be stepped down, and is constant until an investigation is complete 
+
+Corpo Crushers - an occult cyberpunk distortion dice game
+
+tech, tough, talk, transcend
