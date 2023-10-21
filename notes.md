@@ -81,4 +81,4 @@ What 3 things are you bringing with you
 
 Harm can only be reduced through a specific action, or through rest. A short rest is a few minutes and can reduce a harm track by one. A long rest is a full night and can reduce each harm track by one. You can take an action appropriate for each harm track to try and reduce it, but failure means increasing it.
 
-If Harm is raised above a d12, that character is incapacitated and takes on or raises a negative aspect. An incapacitated character is retired if they are not removed from that situation. An incapacitated character cannot act on their own.
+If Harm is raised above a d12, that character is incapacitated and takes on or raises a negative aspect. An incapacitated character is retired if they are not removed from that situation. An incapacitated character cannot act on their own. If a negative aspect would be raised above a d12 that character is automatically retired and cannot be saved.
