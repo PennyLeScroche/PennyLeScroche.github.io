@@ -90,3 +90,12 @@ this is a. optional die that represents the constant tension and risk involved i
 Corpo Crushers - an occult cyberpunk distortion dice game
 
 tech, tough, talk, transcend
+
+Superhero/Fighting Game/Shonen inspired Distortion game
+
+Curious Combatants, Weird Warriors, Bizarre Battles
+Stats - Might, Mental, Marvel OR Strength, Smarts, Spirit
+
+Sci-Fi Space Opera Game
+Cosmic Cowboys
+Splendor, Speak, Spark, Sapience OR Brain, Brawn, Bizarre, Beckon
