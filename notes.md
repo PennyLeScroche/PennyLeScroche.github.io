@@ -85,7 +85,9 @@ If Harm is raised above a d12, that character is incapacitated and takes on or r
 
 ### Tension Die
 
-this is a. optional die that represents the constant tension and risk involved in an investigation. Like all other dice, it can be anywhere from a d4 to a d12. Unlike other dice, it cannot be stepped down, and is constant until an investigation is complete 
+this is an optional die that represents the constant tension and risk involved in an investigation. There are two version of the Tension Die, a rising Tension Die, and a Static Tension Die. The static Tension Die is constant and represents the constant supernatural threat of an investigation. Like all other dice, it can be anywhere from a d4 to a d12. Unlike other dice, it cannot be stepped down.
+
+The rising Tension die starts at a d4 or d6 and represents a potentially growing threat. As the players investigate, background forces are also going to work towards their goals, and when those goals are achieved, the tension die grows. If those goals are thwarted, the tension die shrinks. If it raises above a d12, the ultimate goal of the antagonists is reached, the players, and possible the entire world, lose. If it's lowered below a d4, the antagonists are defeated, and their threat is gone.
 
 Corpo Crushers - an occult cyberpunk distortion dice game
 
