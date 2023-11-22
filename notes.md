@@ -102,6 +102,7 @@ Superhero/Fighting Game/Shonen inspired Distortion game
 That which makes us different, makes us stronger
 
 Curious Combatants, Weird Warriors, Bizarre Battles
+
 Stats - Might, Mental, Marvel OR Strength, Smarts, Spirit
 
 Sci-Fi Space Opera Game
