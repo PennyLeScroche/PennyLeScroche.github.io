@@ -103,7 +103,7 @@ That which makes us different, makes us stronger
 
 Curious Combatants, Weird Warriors, Bizarre Battles
 
-Stats - Might, Mental, Marvel OR Strength, Smarts, Spirit
+Stats - Might, Mental, Marvel, Move OR Strength, Smarts, Spirit, Speed
 
 Sci-Fi Space Opera Game
 
