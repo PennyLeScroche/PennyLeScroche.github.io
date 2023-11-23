@@ -89,7 +89,12 @@ this is an optional die that represents the constant tension and risk involved i
 
 The rising Tension die starts at a d4 or d6 and represents a potentially growing threat. As the players investigate, background forces are also going to work towards their goals, and when those goals are achieved, the tension die grows. If those goals are thwarted, the tension die shrinks. If it raises above a d12, the ultimate goal of the antagonists is reached, the players, and possible the entire world, lose. If it's lowered below a d4, the antagonists are defeated, and their threat is gone.
 
+
+### Other games
+
 #### Corpo Crushers - an occult cyberpunk distortion dice game.
+
+Corpo Crushers - an occult cyberpunk distortion dice game.
 
 The veil was lifted, but capitalism didnt care
 
@@ -106,7 +111,8 @@ Additional Trait - Augment, specialized assets that modify the way your body wor
 That which makes us different, makes us stronger
 
 Curious Combatants, Weird Warriors, Bizarre Battles
-Stats - Might, Mental, Marvel OR Strength, Smarts, Spirit
+
+Stats - Might, Mental, Marvel, Move OR Strength, Smarts, Spirit, Speed
 
 Aspects - Your fighting style, your background, your reason for fighting
 
