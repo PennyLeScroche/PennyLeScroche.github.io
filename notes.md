@@ -94,17 +94,15 @@ The rising Tension die starts at a d4 or d6 and represents a potentially growing
 
 #### Corpo Crushers - an occult cyberpunk distortion dice game.
 
-Corpo Crushers - an occult cyberpunk distortion dice game.
-
 The veil was lifted, but capitalism didnt care
 
-Stats - tech, tough, talk, transcend
+**Stats** - tech, tough, talk, transcend
 
-Aspects - Your specialization, Your background, Your reason for fighting back
+**Aspects** - Your specialization, Your background, Your reason for fighting back
 
-Negative aspects - Something from your past that ties you into the world, something in the present day that affects your ability to get a job done 
+**Negative aspects** - Something from your past that ties you into the world, something in the present day that affects your ability to get a job done 
 
-Additional Trait - Augment, specialized assets that modify the way your body works.
+**Additional Trait, Augment** - specialized assets that modify the way your body works.
 
 #### Superhero/Fighting Game/Shonen inspired Distortion game
 
@@ -112,20 +110,20 @@ That which makes us different, makes us stronger
 
 Curious Combatants, Weird Warriors, Bizarre Battles
 
-Stats - Might, Mental, Marvel, Move OR Strength, Smarts, Spirit, Speed
+**Stats** - Might, Mental, Marvel, Move OR Strength, Smarts, Spirit, Speed
 
-Aspects - Your fighting style, your background, your reason for fighting
+**Aspects** - Your fighting style, your background, your reason for fighting
 
-Negative aspects - A regret you have, a weakness in your technique
+**Negative aspects** - A regret you have, a weakness in your technique
 
-Additional trait, special moves - special fighting techniques that can be used under certain conditions OR by spending inspiration
+**Additional trait, special moves** - special fighting techniques that can be used under certain conditions OR by spending inspiration
 
 #### Sci-Fi Space Opera Game
 
 Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the place you call home
 
-Splendor, Speak, Spark, Sapience OR Brain, Brawn, Bizarre, Beckon
+**Stats** - Splendor, Speak, Spark, Sapience OR Brain, Brawn, Bizarre, Beckon
 
-Aspects - Your job on the ship, your background, why you call space home
+**Aspects** - Your job on the ship, your background, why you call space home
 
-Negative Aspects - something you're afraid of or running from, something that holds you back
+**Negative Aspects** - something you're afraid of or running from, something that holds you back
