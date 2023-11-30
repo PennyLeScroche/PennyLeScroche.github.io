@@ -89,6 +89,16 @@ this is an optional die that represents the constant tension and risk involved i
 
 The rising Tension die starts at a d4 or d6 and represents a potentially growing threat. As the players investigate, background forces are also going to work towards their goals, and when those goals are achieved, the tension die grows. If those goals are thwarted, the tension die shrinks. If it raises above a d12, the ultimate goal of the antagonists is reached, the players, and possible the entire world, lose. If it's lowered below a d4, the antagonists are defeated, and their threat is gone.
 
+### Campaign scenarios
+
+- TV/web show about the supernatural
+- a curiosities shop looking to collect rare items
+- a secret order dedicated to protecting the realm
+- nomadic bounty hunters jumping from job to job
+- a private investigator & friends
+- investigative journalism
+- A mystery club in a high school
+- trying to prove yourself to a forum of paranormal enthusiasts
 
 ### Other games
 
