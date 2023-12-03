@@ -142,4 +142,19 @@ Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the pl
 
 has schools of magic such as crystals, runes, and channeling
 
-has elements that represent sources of arcane power, suxh as storms and the moon
+ways to use arcane energy
+- words/symbols
+- music
+- images
+- crystals
+- communing with them
+- comsuming them
+
+has elements that represent sources of arcane powers
+- shadows
+- the moon
+- storms
+- the earth
+- the spirits of living things
+- the sun
+- bodies of water
