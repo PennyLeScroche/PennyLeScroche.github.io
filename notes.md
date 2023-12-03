@@ -137,3 +137,9 @@ Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the pl
 **Aspects** - Your job on the ship, your background, why you call space home
 
 **Negative Aspects** - something you're afraid of or running from, something that holds you back
+
+#### Game about magic
+
+has schools of magic such as crystals, runes, and channeling
+
+has elements that represent sources of arcane power, suxh as storms and the moon
