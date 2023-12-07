@@ -1,3 +1,5 @@
+rename hero princesses to plucky princesses
+
 Spectral Sleuths: A Supernatural investigation game using Distortion Dice
 
 4 stats
