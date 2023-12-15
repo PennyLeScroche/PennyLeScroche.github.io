@@ -130,6 +130,27 @@ Curious Combatants, Weird Warriors, Bizarre Battles
 
 **Additional trait, special moves** - special fighting techniques that can be used under certain conditions OR by spending inspiration
 
+Scenarios:
+- Part of an organization protecting this realm from beings of the spirit realm
+- In a school for empowered people
+- A team of reluctant allies fighting against certain doom
+- Transported to another world and fighting to find your way back home
+- A crew looking for a secret treasure
+- Powers started awakening and the world is in chaos
+
+Types of Powers:
+- Physically altered bodies
+    - Monstrous
+    - Mechanical
+    - Enchanted
+    - Shapeshifting
+- Manifestations of the soul
+    - Energy weapons
+    - Creatures with tremendous power
+- Elemental control
+- Time manipulation
+- Manipulation of senses
+
 #### Sci-Fi Space Opera Game
 
 Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the place you call home
