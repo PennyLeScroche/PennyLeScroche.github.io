@@ -137,6 +137,8 @@ Scenarios:
 - Transported to another world and fighting to find your way back home
 - A crew looking for a secret treasure
 - Powers started awakening and the world is in chaos
+- The World Ended and you're fighting to survive
+- You are selected by ancient beings as protectors and they bestow you with tremendous power
 
 Types of Powers:
 - Physically altered bodies
