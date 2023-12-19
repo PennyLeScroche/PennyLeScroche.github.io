@@ -135,7 +135,7 @@ Scenarios:
 - In a school for empowered people
 - A team of reluctant allies fighting against certain doom
 - Transported to another world and fighting to find your way back home
-- A crew looking for a secret treasure
+- A crew looking for something powerful that may not exist 
 - Powers started awakening and the world is in chaos
 - The World Ended and you're fighting to survive
 - You are selected by ancient beings as protectors and they bestow you with tremendous power
