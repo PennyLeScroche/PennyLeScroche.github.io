@@ -45,7 +45,7 @@ Types of Powers:
     - Shapeshifting
 - Manifestations of the soul
     - Energy weapons
-    - Creatures with tremendous power
+    - Beings with tremendous power
 - Elemental control
 - Time manipulation
 - Manipulation of senses
@@ -85,6 +85,11 @@ has elements that represent sources of arcane powers
 
 In a fantasy world with lost and forgotten gods. old languages, traditions, songs, and foods have been lost, in favor of more convenient modern alternatives. people don't remember how they used to live, they don't remember where they come from. they know only the simple luxuries of convenience and their simple mind numbing jobs. Sick of the endless cycle, you start to explore abandoned parts of the city and the surrounding area, rediscovering the lost cultures 
 
-mechanize Discovery and exploration, as well as building community 
+mechanize Discovery and exploration, as well as building community. things you might do is explore old places, decipher songs, poems, myths, and recipes, commune with lost gods, and teach others what you've learned.
 
 Name: Lost Legends
+
+A stat for moving and other physical tasks
+A stat for studying
+A stat for spirituality 
+A stat for talking 
