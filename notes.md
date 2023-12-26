@@ -90,8 +90,8 @@ mechanize Discovery and exploration, as well as building community. things you m
 Name: Lost Legends
 
 A stat for moving and other physical tasks
-A stat for studying
-A stat for spirituality 
-A stat for talking 
+A stat for studying or deciphering symbols and images
+A stat for spirituality, to feel the lost gods and commune with them
+A stat for talking, spreading information, and organizing 
 
 Old gods and lost pieces of culture become assets or aspects, you gain them by finding them and sharing them. Community can be an asset?
