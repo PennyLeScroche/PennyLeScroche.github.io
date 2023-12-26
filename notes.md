@@ -36,7 +36,6 @@ Scenarios:
 - Powers started awakening and the world is in chaos
 - The World Ended and you're fighting to survive
 - You are selected by ancient beings as protectors and they bestow you with tremendous power
-- You are forced into a tournament where the stakes are the fate of the world
 
 Types of Powers:
 - Physically altered bodies
@@ -81,3 +80,7 @@ has elements that represent sources of arcane powers
 - the spirits of living things
 - the sun
 - bodies of water
+
+#### Game about the dangers of colonization and capitalism
+
+In a fantasy world with lost and forgotten gods. old languages, traditions, songs, and foods have been lost, in favor of more convenient modern alternatives. people don't remember how they used to live, they don't remember where they come from. they know only the simple luxuries of convenience and their simple mind numbing jobs
