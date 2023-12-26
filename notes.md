@@ -93,3 +93,5 @@ A stat for moving and other physical tasks
 A stat for studying
 A stat for spirituality 
 A stat for talking 
+
+Old gods and lost pieces of culture become assets or aspects, you gain them by finding them and sharing them. Community can be an asset?
