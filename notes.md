@@ -84,3 +84,7 @@ has elements that represent sources of arcane powers
 #### Game about the dangers of colonization and capitalism
 
 In a fantasy world with lost and forgotten gods. old languages, traditions, songs, and foods have been lost, in favor of more convenient modern alternatives. people don't remember how they used to live, they don't remember where they come from. they know only the simple luxuries of convenience and their simple mind numbing jobs. Sick of the endless cycle, you start to explore abandoned parts of the city and the surrounding area, rediscovering the lost cultures 
+
+mechanize Discovery and exploration, as well as building community 
+
+Name: Lost Legends
