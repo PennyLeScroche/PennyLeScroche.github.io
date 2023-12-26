@@ -36,7 +36,6 @@ Scenarios:
 - Powers started awakening and the world is in chaos
 - The World Ended and you're fighting to survive
 - You are selected by ancient beings as protectors and they bestow you with tremendous power
-- You are forced into a tournament where the stakes are the fate of the world
 
 Types of Powers:
 - Physically altered bodies
@@ -46,7 +45,7 @@ Types of Powers:
     - Shapeshifting
 - Manifestations of the soul
     - Energy weapons
-    - Creatures with tremendous power
+    - Beings with tremendous power
 - Elemental control
 - Time manipulation
 - Manipulation of senses
@@ -81,3 +80,18 @@ has elements that represent sources of arcane powers
 - the spirits of living things
 - the sun
 - bodies of water
+
+#### Game about the dangers of colonization and capitalism
+
+In a fantasy world with lost and forgotten gods. old languages, traditions, songs, and foods have been lost, in favor of more convenient modern alternatives. people don't remember how they used to live, they don't remember where they come from. they know only the simple luxuries of convenience and their simple mind numbing jobs. Sick of the endless cycle, you start to explore abandoned parts of the city and the surrounding area, rediscovering the lost cultures 
+
+mechanize Discovery and exploration, as well as building community. things you might do is explore old places, decipher songs, poems, myths, and recipes, commune with lost gods, and teach others what you've learned.
+
+Name: Lost Legends
+
+A stat for moving and other physical tasks
+A stat for studying or deciphering symbols and images
+A stat for spirituality, to feel the lost gods and commune with them
+A stat for talking, spreading information, and organizing 
+
+Old gods and lost pieces of culture become assets or aspects, you gain them by finding them and sharing them. Community can be an asset?
