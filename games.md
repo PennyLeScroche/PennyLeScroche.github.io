@@ -13,7 +13,7 @@ Games I have made. All of them are also over on my [itch page](https://pennylesc
 
 | [Distorted Domains](https://pennylescroche.github.io/Distorted-Domains) | [Plucky Princesses](https://pennylescroche.github.io/Plucky-Princesses) | [Spectral Sleuths](https://pennylescroche.github.io/Spectral-Sleuths)
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-|  [<title image goes here>](https://pennylescroche.github.io/Distorted-Domains) | [<title image goes here>](https://pennylescroche.github.io/Plucky-Princesses) | [<title image goes here>](https://pennylescroche.github.io/Spectral-Sleuths) |
+|  [\<title image goes here\>](https://pennylescroche.github.io/Distorted-Domains) | [\<title image goes here\>](https://pennylescroche.github.io/Plucky-Princesses) | [\<title image goes here\>](https://pennylescroche.github.io/Spectral-Sleuths) |
 | A gonzo science fantasy adventure game | A game of magical princesses facing challenges and saving their kingdom | A supernatural investigation game of ordinary people looking into extraordinary phenomena |
 
 ### Unfinished Videogames
