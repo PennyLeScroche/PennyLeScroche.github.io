@@ -36,6 +36,7 @@ Scenarios:
 - Powers started awakening and the world is in chaos
 - The World Ended and you're fighting to survive
 - You are selected by ancient beings as protectors and they bestow you with tremendous power
+- You pilot specialized machines in order to protect the world 
 
 Types of Powers:
 - Physically altered bodies
