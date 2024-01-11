@@ -34,6 +34,8 @@ As an alternative to standard harm tracks you may want to have freeform conditio
 
 Another alternative is the singular harm track. In order to make the singular harm track less deadly, some additional rules (and rolls) need to be done. When taking harm on a singular harm track, roll the harm die, and on a 4+ the harm die is increased. This maintains the danger of a larger harm die while also slowing down the rate at which you can be taken out. However, it should be noted that this mechanic will slow the game down some as it results in an extra die being rolled.
 
+Perhaps you want a more traditional HP mechanic, where each character has a number of HP determined by their stats, and aspects. For this you may want to assign specific HP ranges to specific die sizes.
+
 The alternatives provided above are simply examples to show the different ways that a harm die could work. If you have your own ideas about harm and harm dice, please implement them.
 
 ### Assets, Aspects, and Other Character Traits
@@ -45,3 +47,23 @@ Aspects are abilities, personality traits, goals, or values that separate your c
 There is no reason to limit yourself to these two things of describing your character. If you want a game more about interpersonal relationships you can have a die to represent those relationships. You can have powers with die ratings as well. When separating something from an aspect, or when renaming aspects to something else, be sure to put some thought into what that name means. As well as what it means to have Powers separate from aspects instead of simply having them as one aspect. Separating out what could be an aspect into another category can introduce additional game complexity, as well as add emphasis to this part of a character. In a cyberpunk game, you may wish to have augments as a separate category from assets and aspects because augments are so important to the game. Improving augments could also have a unique mechanic separate from the rest of character improvement. This emphasizes the importance of augments in this game.
 
 Activated Abilities can also be a part of your Aspects, Assets, or other traits. An Activated Ability is either an additional die, or the raising of a die under certain circumstances. These can range from something like your electricity powers being enhanced by saltwater, to spending an inspiration to fire a special round out of your revolver. So the conditions on activating a special ability can be entirely narrative, or somewhat mechanical. The easiest mechanical activation would be to spend inspiration. Another activation would be having a harm track above a certain threshold. Narrative activations can be something like the environment that you're in, how many allies you have around, or even what song is playing on the radio. What activated abilities can represent are special techniques, or key points of motivation or expertise for your character. They are used to add depth to Aspects, Asset, or other traits of your character.
+
+### Obstacles
+
+An obstacle is simply something that stands between a character and what that character wants. This can be a policy or law, a locked door, a gorge, an NPC, or simply the difficulty of what a character is attempting. Everything that a character needs to overcome in order to accomplish their task is an obstacle. Obstacles, like everything that impacts the narrative in a distortion dice game, are represented by dice. Simple obstacles can be represented by a single die such as a d8, and be resolved in a single roll. More complex obstacles can have more dice. This can be represented as something like 3d6 angry mob, or something like d10 Sky Whale with a d8 appetite, and d8 hates humans. The more you break down the dice, the more characterization you've given the obstacle.
+
+When a player succeeds against a complex obstacle, it reduces a die from that obstacle. When a die is reduced below a d4, then it goes away. On obstacle is defeated when it has no dice left. However, this doesn't mean that obstacles always need to be reduced to no dice in order for the player characters to succeed. Obstacles that are living beings often have a sense of self preservation, as well as the ability to make their own choices. When it no longer makes sense for them to be an obstacle within the narrative, they are no longer an obstacle.
+
+You can also include specialized obstacles with custom rules. The tension die from Spectral Sleuths is an example of this. This die represents the constant tension in the air due to the supernatural events occuring in the area. A variable tension die can be raised by actions taken by obstacles that cause the threat to grow, and can shrink when players take actions that reduce the power of the supernatural threat. A static tension die represents a threat that was always there, and will remain constant unless that threat can somehow be mitigated, defeated, or contained.
+
+### Inspiration
+
+Inspiration is the metacurrency of Distortion Dice. By default, it can be used to change the dice that you roll, or to change the harm that you take. You can spend an inspiration to either raise a die in your dice pool, or to use a die that doesn't make sense for you to use. After a roll, if you are going to take harm, you can spend an inspiration to move that harm to another harm track, or to a negative aspect. This also allows you to avoid being taken out in a scene. As with everything distortion dice, feel free to change or break these rules to best suit the feel of the game that you want.
+
+Inspiration is gained by taking harm, helping to reduce an allies harm, or by using a negative trait in a roll. Your game may have more or fewer ways to use inspiration depending on how you want the inspiration economy to work.
+
+At the end of a session, or the end of an adventure, inspiration will turn into advancement, which is used to upgrade your character.
+
+### Advancement
+
+By default, advancement is gained at the end of an adventure, and at the end of each session in the form of leftover inspiration. Advancement is used to enhance stats and aspects, unlock or enhance activated abilities, or reduce negative aspects. 
