@@ -61,6 +61,12 @@ Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the pl
 
 **Negative Aspects** - something you're afraid of or running from, something that holds you back
 
+The Ship should have a character sheet
+
+System for hired help
+
+The strangeness of the cosmos changes you? Advancement for experience the unexplainable and surviving
+
 #### Game about magic
 
 has schools of magic such as crystals, runes, and channeling
