@@ -7,13 +7,11 @@ The veil was lifted, but capitalism didnt care
 
 **Stats** - tech, tough, talk, transcend
 
-**Aspects** - Your specialization, Your background, Your reason for fighting back, What you are
+**Aspects** - Your specialization, Your background, Your reason for fighting back
 
 **Negative aspects** - Something from your past that ties you into the world, something in the present day that affects your ability to get a job done 
 
-**Additional Trait, Augment** - specialized assets that modify the way your body works. Augments can be damaged and need to be repaired.
-
-You could be a goblin, a vampire, a djinn, a faerie, capitalism exploits you all. Players take on the role of people who do illegal jobs, with the ultimate goal of bringing down, or at least crippling, megacorporations. Use your skills, advanced tech, and occult powers to get the job done.
+**Additional Trait, Augment** - specialized assets that modify the way your body works.
 
 #### Superhero/Fighting Game/Shonen inspired Distortion game
 
@@ -113,3 +111,5 @@ A stat for spirituality, to feel the lost gods and commune with them - Commune
 A stat for talking, spreading information, and organizing - Connect
 
 Old gods and lost pieces of culture become assets or aspects, you gain them by finding them and sharing them. Community can be an asset?
+
+Start the game with rumors, traditions with lost meaning, and lies told to you by established powers
