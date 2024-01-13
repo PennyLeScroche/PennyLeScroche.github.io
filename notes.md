@@ -126,4 +126,4 @@ The interviewer/judge has questions on a card, the funniest answers win.
 
 Dating game theme?
 
-Create web based version too.
+Create web based version too, run entirely client side
