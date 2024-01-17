@@ -7,7 +7,7 @@ The veil was lifted, but capitalism didnt care
 
 **Stats** - tech, tough, talk, transcend
 
-**Aspects** - Your specialization, Your background, Your reason for fighting back, What you are
+**Aspects** - Your specialization, Your background, Your reason for fighting back
 
 **Negative aspects** - Something from your past that ties you into the world, something in the present day that affects your ability to get a job done 
 
@@ -113,3 +113,19 @@ A stat for spirituality, to feel the lost gods and commune with them - Commune
 A stat for talking, spreading information, and organizing - Connect
 
 Old gods and lost pieces of culture become assets or aspects, you gain them by finding them and sharing them. Community can be an asset?
+
+Start the game with rumors, traditions with lost meaning, and lies told to you by established powers
+
+### Card Game
+
+Party game of ridiculous characters and prompts.
+
+create your character with a head, torso, and legs.
+
+The interviewer/judge has questions on a card, the funniest answers win.
+
+3 rounds of questions, each question chosen from the prompt card. 5/6 prompts per card.
+
+Dating game theme?
+
+Create web based version too, run entirely client side
