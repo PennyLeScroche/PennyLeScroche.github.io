@@ -13,7 +13,7 @@ The veil was lifted, but capitalism didnt care
 
 **Additional Trait, Augment** - specialized assets that modify the way your body works. Augments can be damaged and need to be repaired.
 
-You could be a goblin, a vampire, a djinn, a faerie, capitalism exploits you all. Players take on the role of people who do illegal jobs, with the ultimate goal of bringing down, or at least crippling, megacorporations. Use your skills, advanced tech, and occult powers to get the job done.
+You could be a goblin, a vampire, a djinn, a faerie, capitalism exploits you all. Players take on the role of people who do illegal jobs, with the ultimate goal of bringing down, or at least slowing down megacorporations. Use your skills, advanced tech, and occult powers to get the job done.
 
 #### Superhero/Fighting Game/Shonen inspired Distortion game
 
