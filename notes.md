@@ -105,6 +105,8 @@ In a fantasy world with lost and forgotten gods. old languages, traditions, song
 
 mechanize Discovery and exploration, as well as building community. things you might do is explore old places, decipher songs, poems, myths, and recipes, commune with lost gods, and teach others what you've learned.
 
+Obstacles to overcome are getting people to listen and running from or fighting authority
+
 Name: Lost Legends
 
 A stat for moving and other physical tasks - Charge
@@ -115,6 +117,8 @@ A stat for talking, spreading information, and organizing - Connect
 Old gods and lost pieces of culture become assets or aspects, you gain them by finding them and sharing them. Community can be an asset?
 
 Start the game with rumors, traditions with lost meaning, and lies told to you by established powers
+
+Gain Advancement on discovery of an old tradition, or creating a new way to commune with an old god. Spend advancement to create a trend, event, or connection to share this
 
 ### Card Game
 
