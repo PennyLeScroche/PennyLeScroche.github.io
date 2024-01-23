@@ -136,7 +136,7 @@ Create web based version too, run entirely client side
 
 ### Game Exploder Jam Idea
 
-Chaos Ensues: The players take on the role of chaotic little critters causing trouble. The GM tries to deal with the chaos and catch the critters.
+Chaos Critters: The players take on the role of chaotic little critters causing trouble. The GM tries to deal with the chaos and catch the critters.
 
 Players all get a dice pool according to game length
 
