@@ -143,3 +143,10 @@ Players all get a dice pool according to game length
 GM gets a dice pool according to the total size of all players dice pools
 
 When creating or dealing with a problem the GM or Player can allocate dice to that problem
+
+### Dealing with Deities
+
+GM-Agnostic - The players take the role of Dysfunctional Demigods, trying to cause chaos in each others lives and engaging in self destructive behavior.
+When you want to do something, you draw 2+ cards, and somebody else draws 2+ cards. Mundane tasks are always 2 cards vs 2 cards. Using your god powers, you can spend a token (poker chip ideally) to gain more cards, and tasks for godly abilities might have more than 2 cards in the oppoisitions hand.
+
+If your highest card is higher than your opponents, you get what you want (yes). If your lowest card is higher than your opponents lowest, you get a bonus effect (and). If your highest is lower than your opponents highest, your opponent gets what they want (no). This creates a Yes and, yes but, no and, no but system.
