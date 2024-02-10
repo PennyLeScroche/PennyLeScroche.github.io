@@ -120,6 +120,10 @@ Start the game with rumors, traditions with lost meaning, and lies told to you b
 
 Gain Advancement on discovery of an old tradition, or creating a new way to commune with an old god. Spend advancement to create a trend, event, or connection to share this
 
+Relationship aspects, as this game is about connections
+Each connection will have a die rating and a statement about it that represents how you feel
+Connections can be asymmetrical
+
 ### Card Game
 
 Party game of ridiculous characters and prompts.
