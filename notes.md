@@ -129,18 +129,30 @@ Community
 War
   Gain power when people fight
 Nature
-  Gain power when people appreciate the natural world 
+  Gain power when people appreciate the natural world
 Celebration
   Gain power when people drink and party
 Trade
   Gain power when people exchange goods or services 
 Deception
   Gain power when people lie
+Industry
+  Gain power when new machines are created
+Competition
+  Gain power when people play games or sports
+Beauty
+  Gain power through vanity
+Arts
+  Gain power from works of art
+Death
+  Gain power when people die or remember the dead
+Chaos
+  Gain power through disrupting order
   
 You feel that mortals are
 Useful
 annoying
-innocent
+necessary 
 disgusting
 
 Mortals feel that you are
