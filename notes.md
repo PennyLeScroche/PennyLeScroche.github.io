@@ -11,9 +11,7 @@ The veil was lifted, but capitalism didnt care
 
 **Negative aspects** - Something from your past that ties you into the world, something in the present day that affects your ability to get a job done 
 
-**Additional Trait, Augment** - specialized assets that modify the way your body works. Augments can be damaged and need to be repaired.
-
-You could be a goblin, a vampire, a djinn, a faerie, capitalism exploits you all. Players take on the role of people who do illegal jobs, with the ultimate goal of bringing down, or at least slowing down megacorporations. Use your skills, advanced tech, and occult powers to get the job done.
+**Additional Trait, Augment** - specialized assets that modify the way your body works.
 
 #### Superhero/Fighting Game/Shonen inspired Distortion game
 
@@ -105,8 +103,6 @@ In a fantasy world with lost and forgotten gods. old languages, traditions, song
 
 mechanize Discovery and exploration, as well as building community. things you might do is explore old places, decipher songs, poems, myths, and recipes, commune with lost gods, and teach others what you've learned.
 
-Obstacles to overcome are getting people to listen and running from or fighting authority
-
 Name: Lost Legends
 
 A stat for moving and other physical tasks - Charge
@@ -118,11 +114,40 @@ Old gods and lost pieces of culture become assets or aspects, you gain them by f
 
 Start the game with rumors, traditions with lost meaning, and lies told to you by established powers
 
-Gain Advancement on discovery of an old tradition, or creating a new way to commune with an old god. Spend advancement to create a trend, event, or connection to share this
 
-Relationship aspects, as this game is about connections
-Each connection will have a die rating and a statement about it that represents how you feel
-Connections can be asymmetrical
+### Dealing with Deities
+
+a card based game about Deities
+
+compare the highest and lowest card you draw, creating a yes/and, no/but system
+
+God options
+Love
+  Gain power when people are intimate 
+Community
+  Gain power when people spend time with loved ones
+War
+  Gain power when people fight
+Nature
+  Gain power when people appreciate the natural world 
+Celebration
+  Gain power when people drink and party
+Trade
+  Gain power when people exchange goods or services 
+Deception
+  Gain power when people lie
+  
+You feel that mortals are
+Useful
+annoying
+innocent
+disgusting
+
+Mortals feel that you are
+They adore you
+they fear you
+they despise you
+they neglect you
 
 ### Card Game
 
@@ -137,20 +162,3 @@ The interviewer/judge has questions on a card, the funniest answers win.
 Dating game theme?
 
 Create web based version too, run entirely client side
-
-### Game Exploder Jam Idea
-
-Chaos Critters: The players take on the role of chaotic little critters causing trouble. The GM tries to deal with the chaos and catch the critters.
-
-Players all get a dice pool according to game length
-
-GM gets a dice pool according to the total size of all players dice pools
-
-When creating or dealing with a problem the GM or Player can allocate dice to that problem
-
-### Dealing with Deities
-
-GM-Agnostic - The players take the role of Dysfunctional Demigods, trying to cause chaos in each others lives and engaging in self destructive behavior.
-When you want to do something, you draw 2+ cards, and somebody else draws 2+ cards. Mundane tasks are always 2 cards vs 2 cards. Using your god powers, you can spend a token (poker chip ideally) to gain more cards, and tasks for godly abilities might have more than 2 cards in the oppoisitions hand.
-
-If your highest card is higher than your opponents, you get what you want (yes). If your lowest card is higher than your opponents lowest, you get a bonus effect (and). If your highest is lower than your opponents highest, your opponent gets what they want (no). This creates a Yes and, yes but, no and, no but system.
