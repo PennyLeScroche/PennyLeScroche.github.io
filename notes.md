@@ -1,3 +1,7 @@
+### Distorted Domains ideas
+
+Players are Travelers, the Game Master is the Domain Manager, or DM.
+
 
 ### Other games
 
