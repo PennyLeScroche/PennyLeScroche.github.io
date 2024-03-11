@@ -68,8 +68,13 @@ Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the pl
 The Ship should have a character sheet
 Ship Rating - shows overall quality and describes thr ship
 Ship Aspects
+- Class
+  - Racing
+  - Cargo
+  - Recon
+  - Gunship
 - Engine
-- Hull
+- Hull/Defenses
 - Cargo
 - Navigation
 - Communications
