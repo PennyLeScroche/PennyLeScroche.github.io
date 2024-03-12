@@ -1,3 +1,7 @@
+---
+title: notes
+---
+
 ### Distorted Domains ideas
 
 Players are Travelers, the Game Master is the Domain Manager, or DM. Add Gear for each Domain. Add obstacle advice for each domain
