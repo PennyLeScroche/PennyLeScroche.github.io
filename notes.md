@@ -125,6 +125,8 @@ a card based game about Deities
 
 compare the highest and lowest card you draw, creating a yes/and, no/but system
 
+Spend power(poker chips) to get more cards.
+
 ### God options
 
 - A: Love
@@ -167,17 +169,19 @@ Mortals
 - S: neglect you
  
 Situation
--  There is a festival coming up for one of the gods or demigods
--  One of the demigods is tired of how they are being treated
--  A demigod has an idea on how to gain more followers
--  A demigod needs help from another demigod for an issue they are facing
--  A demigod is trying to rebrand
--  A demigod is trying to find a successor
--  A demigod wants to play a prank on another demigod
--  A demigod wants to get revenge on another demigod
--  A demigod wants to expand their domain
--  A demigod is trying to prove a point to another demigod 
--  A god is rumored to be returning 
+-  A: There is a festival coming up for one of the gods or demigods
+-  2: One of the demigods is tired of how they are being treated
+-  3: A demigod has an idea on how to gain more followers
+-  4: A demigod needs help from another demigod for an issue they are facing
+-  5: A demigod is trying to rebrand
+-  6: A demigod is trying to find a successor
+-  7: A demigod wants to play a prank on another demigod
+-  8: A demigod wants to get revenge on another demigod
+-  9: A demigod wants to expand their domain
+-  10: A demigod is trying to prove a point to another demigod 
+-  J: A god is rumored to be returning 
+-  Q: There is a vacant cosmic domain
+-  K: A demigod is losing their powers
 
 ### Card Game
 
