@@ -1,11 +1,3 @@
----
-title: notes
----
-
-### Distorted Domains ideas
-
-Players are Travelers, the Game Master is the Domain Manager, or DM. Add Gear for each Domain. Add obstacle advice for each domain
-
 
 ### Other games
 
@@ -72,13 +64,8 @@ Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the pl
 The Ship should have a character sheet
 Ship Rating - shows overall quality and describes thr ship
 Ship Aspects
-- Class
-  - Racing
-  - Cargo
-  - Recon
-  - Gunship
 - Engine
-- Hull/Defenses
+- Hull
 - Cargo
 - Navigation
 - Communications
@@ -134,63 +121,58 @@ a card based game about Deities
 
 compare the highest and lowest card you draw, creating a yes/and, no/but system
 
-Spend power(poker chips) to get more cards.
-
-### God options
-
-- A: Love
-  - Gain power when people are intimate 
-- 2: Community
-  - Gain power when people spend time with loved ones
-- 3: War
-  - Gain power when people fight
-- 4: Nature
-  - Gain power when people appreciate the natural world
-- 5: Celebration
-  - Gain power when people drink and party
-- 6: Trade
-  - Gain power when people exchange goods or services 
-- 7: Deception
-  - Gain power when people lie
-- 8: Industry
-  - Gain power when new machines are created
-- 9: Competition
-  - Gain power when people play games or sports
-- 10: Beauty
-  - Gain power through vanity
-- J: Arts
-  - Gain power from works of art
-- Q: Death
-  - Gain power when people die or remember the dead
-- K: Chaos
-  - Gain power through disrupting order
+God options
+Love
+  Gain power when people are intimate 
+Community
+  Gain power when people spend time with loved ones
+War
+  Gain power when people fight
+Nature
+  Gain power when people appreciate the natural world
+Celebration
+  Gain power when people drink and party
+Trade
+  Gain power when people exchange goods or services 
+Deception
+  Gain power when people lie
+Industry
+  Gain power when new machines are created
+Competition
+  Gain power when people play games or sports
+Beauty
+  Gain power through vanity
+Arts
+  Gain power from works of art
+Death
+  Gain power when people die or remember the dead
+Chaos
+  Gain power through disrupting order
   
 You feel that mortals are
-- H: Useful
-- C: annoying
-- D: necessary 
-- S: disgusting
+Useful
+annoying
+necessary 
+disgusting
 
 Mortals 
-- H: adore you
-- C: fear you
-- D: despise you
-- S: neglect you
+ adore you
+ fear you
+ despise you
+ neglect you
  
 Situation
--  A: There is a festival coming up for one of the gods or demigods
--  2: One of the demigods is tired of how they are being treated
--  3: A demigod has an idea on how to gain more followers
--  4: A demigod needs help from another demigod for an issue they are facing
--  5: A demigod is trying to rebrand
--  6: A demigod is trying to find a successor
--  7: A demigod wants to play a prank on another demigod
--  8: A demigod wants to get revenge on another demigod
--  9: A demigod wants to expand their domain
--  10: A demigod is trying to prove a point to another demigod 
--  J: A god is rumored to be returning 
--  Q: There is a vacant cosmic domain
--  K: A demigod is losing their powers
+  There is a festival coming up for one of the gods or demigods
+  One of the demigods is tired of how they are being treated
+  A demigod has an idea on how to gain more followers
+  A demigod needs help from another demigod for an issue they are facing
+  A demigod is trying to rebrand
+  A demigod is trying to find a successor
+  A demigod wants to play a prank on another demigod
+  A demigod wants to get revenge on another demigod
+  A demigod wants to expand their domain
+  A demigod is trying to prove a point to another demigod 
+  A god is rumored to be returning 
 
 ### Card Game
 
@@ -205,3 +187,9 @@ The interviewer/judge has questions on a card, the funniest answers win.
 Dating game theme?
 
 Create web based version too, run entirely client side
+
+### Swords by the creek
+
+a group of friends revisit the place they used to play as children and imagine how their fantasy world changed as the children after them discovered this place.
+
+a timeline building game.
