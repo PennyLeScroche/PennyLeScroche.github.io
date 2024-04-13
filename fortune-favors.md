@@ -2,6 +2,8 @@
 title: Fortune Favors the Phreaks
 ---
 
+# Fortune Favors the Phreaks
+
 Fortune Favors the Phreaks is a hack of the Fortune Favors games by Sadie Oakleaf. This game can be used as a standalone game, or as a hacking mini-game. In Fortune Favors the Phreaks, you play as hackers of some kind, trying to gain access to information. Hacking is done in a virtual reality world, though the physics does not need to mimic our own. Consequences of failure can be as low as losing access and failing the job, to your location data being compromised, all the way up to your consciousness being severed from your body. Decide what works best for your group and the story you want to tell together.
 
 ### Characters
