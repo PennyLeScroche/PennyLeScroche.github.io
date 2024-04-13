@@ -4,10 +4,10 @@ Games I have made. All of them are also over on my [itch page](https://pennylesc
 
 ### Finished Games
 
-| [That Cake was Outta this World](https://pennylescroche.itch.io/that-cake-was-outta-this-world) 
-| :----------------------------: | 
-| [![Image of an eye in a piece of cake](https://img.itch.zone/aW1nLzEwNjIzNDc4LnBuZw==/315x250%23cb/KkjGhf.png)](https://pennylescroche.itch.io/that-cake-was-outta-this-world) |
-| A one page games about interdimensional shenanigans | 
+| [That Cake was Outta this World](https://pennylescroche.itch.io/that-cake-was-outta-this-world) | [Fortune Favors the Phreaks](https://pennylescroche.github.io/fortune-favors)
+| :----------------------------: | :------------------: |
+| [![Image of an eye in a piece of cake](https://img.itch.zone/aW1nLzEwNjIzNDc4LnBuZw==/315x250%23cb/KkjGhf.png)](https://pennylescroche.itch.io/that-cake-was-outta-this-world) | Fortune Favors the Phreaks
+| A one page games about interdimensional shenanigans | A game about hacking. Built on the Fortune Favors system
 
 ### Unfinished TTRPGs
 
