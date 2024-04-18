@@ -121,33 +121,35 @@ a card based game about Deities
 
 compare the highest and lowest card you draw, creating a yes/and, no/but system
 
-God options
-Love
-  Gain power when people are intimate 
-Community
-  Gain power when people spend time with loved ones
-War
-  Gain power when people fight
-Nature
-  Gain power when people appreciate the natural world
-Celebration
-  Gain power when people drink and party
-Trade
-  Gain power when people exchange goods or services 
-Deception
-  Gain power when people lie
-Industry
-  Gain power when new machines are created
-Competition
-  Gain power when people play games or sports
-Beauty
-  Gain power through vanity
-Arts
-  Gain power from works of art
-Death
-  Gain power when people die or remember the dead
-Chaos
-  Gain power through disrupting order
+#### God options
+
+- A: Love
+  - Gain power when people are intimate 
+- 2: Community
+  - Gain power when people spend time with loved ones
+- 3: War
+  - Gain power when people fight
+- 4: Nature
+  - Gain power when people appreciate the natural world
+- 5: Celebration
+  - Gain power when people drink and party
+- 6: Trade
+  - Gain power when people exchange goods or services 
+- 7: Deception
+  - Gain power when people lie
+- 8: Industry
+  - Gain power when new machines are created
+- 9: Competition
+  - Gain power when people play games or sports
+- 10: Beauty
+  - Gain power through vanity
+- J: Arts
+  - Gain power from works of art
+- Q: Death
+  - Gain power when people die or remember the dead
+- K: Chaos
+  - Gain power through disrupting order
+  
 Spend power(poker chips) to get more cards.
 
 #### God options
