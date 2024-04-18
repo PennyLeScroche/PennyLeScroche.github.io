@@ -1,11 +1,3 @@
----
-title: notes
----
-
-### Distorted Domains ideas
-
-Players are Travelers, the Game Master is the Domain Manager, or DM. Add Gear for each Domain. Add obstacle advice for each domain
-
 
 ### Other games
 
@@ -72,13 +64,8 @@ Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the pl
 The Ship should have a character sheet
 Ship Rating - shows overall quality and describes thr ship
 Ship Aspects
-- Class
-  - Racing
-  - Cargo
-  - Recon
-  - Gunship
 - Engine
-- Hull/Defenses
+- Hull
 - Cargo
 - Navigation
 - Communications
@@ -134,6 +121,33 @@ a card based game about Deities
 
 compare the highest and lowest card you draw, creating a yes/and, no/but system
 
+God options
+Love
+  Gain power when people are intimate 
+Community
+  Gain power when people spend time with loved ones
+War
+  Gain power when people fight
+Nature
+  Gain power when people appreciate the natural world
+Celebration
+  Gain power when people drink and party
+Trade
+  Gain power when people exchange goods or services 
+Deception
+  Gain power when people lie
+Industry
+  Gain power when new machines are created
+Competition
+  Gain power when people play games or sports
+Beauty
+  Gain power through vanity
+Arts
+  Gain power from works of art
+Death
+  Gain power when people die or remember the dead
+Chaos
+  Gain power through disrupting order
 Spend power(poker chips) to get more cards.
 
 #### God options
@@ -209,3 +223,9 @@ The interviewer/judge has questions on a card, the funniest answers win.
 Dating game theme?
 
 Create web based version too, run entirely client side
+
+### Swords by the creek
+
+a group of friends revisit the place they used to play as children and imagine how their fantasy world changed as the children after them discovered this place.
+
+a timeline building game.
