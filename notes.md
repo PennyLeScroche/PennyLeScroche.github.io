@@ -136,7 +136,8 @@ compare the highest and lowest card you draw, creating a yes/and, no/but system
 
 Spend power(poker chips) to get more cards.
 
-### God options
+#### God options
+
 
 - A: Love
   - Gain power when people are intimate 
@@ -166,18 +167,21 @@ Spend power(poker chips) to get more cards.
   - Gain power through disrupting order
   
 You feel that mortals are
+
 - H: Useful
 - C: annoying
 - D: necessary 
 - S: disgusting
 
 Mortals 
+
 - H: adore you
 - C: fear you
 - D: despise you
 - S: neglect you
  
 Situation
+
 -  A: There is a festival coming up for one of the gods or demigods
 -  2: One of the demigods is tired of how they are being treated
 -  3: A demigod has an idea on how to gain more followers
