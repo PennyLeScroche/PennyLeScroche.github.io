@@ -3,7 +3,9 @@ but you can call me Penny. I'm a very queer asian american nerd. I mostly talk a
 
 There's a good chance you're here for the [Titterpig Academy Discord](https://bit.ly/titterpig). So go ahead and click that link. If that's not why you're here, maybe consider joining anyway. We're a bunch of cool people who are passionate about ttrpgs and want to help people learn them.
 
-The April Titterpig of the month is Iron Valley. Available for free [here](https://mkirin.itch.io/iron-valley)
+The April TTRPG of the month for Titterpig Bookclub is Iron Valley. Available for free [here](https://mkirin.itch.io/iron-valley)
+
+Feedback survey for Distorted Domains is [here](https://docs.google.com/forms/d/e/1FAIpQLSfjumq6HyZGry6tnUG3JByZEYAQtUuqe_S2jtpLAghejkrEQw/viewform?usp=sf_link)
 
 I've got a [pronouns.page](https://en.pronouns.page/@pennylescroche) if you want to know all my pronouns and what terms I'm comfortable with.
 
