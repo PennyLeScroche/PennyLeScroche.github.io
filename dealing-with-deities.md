@@ -2,22 +2,26 @@
 
 a GMless card based game about Dysfunctional Demigods.
 
-In this game, the gods are dead, and their children feel they don't get the respect they deserve. Despite their infinite lives, demigods tend to be self-absorbed, petty, dramatic, and impulsive. This is ultimately a game about dramatic and selfish people who happen to have powers.
+In this game, the gods are dead, and their children feel they don't get the respect they deserve. Despite their infinite lives, demigods tend to be self-absorbed, petty, dramatic, and impulsive. This is ultimately a game about dramatic and selfish people who happen to have powers. These people both love and hate each other, and generally live to manipulate one another and the mortals they run into.
 
 compare the highest and lowest card you draw against two (or more) cards drawn in opposition, creating a yes/and, no/but system. If cards are the same face, they are ordered by suit. Hearts are the lowest, followed by diamonds, clubs, and spades being the highest.
 
 Expend your power to increase the number of cards drawn. When going against an NPC or other minor obstacles, only draw two cards. When opposing another demigod, you can both expend power to draw more cards.
 
-Scenes are created one at a time. One per player + 1 at the end with everyone. If a player is not in the scene, they play the mortals in the scene.
+Scenes are created one at a time. One per player + 1 at the end with everyone. If a player is not in the scene, they play the mortals in the scene. Each scene will have a number of mortals. Mortals by default are essentially wandering around, at least from the demigods point of view. A player should create a scene based on the prompt they have in character creation.
 
 To create characters, deal out 5 cards to each player, and assign them to the different character aspects. You should have one card leftover.
 
 Before play, it should be decided when and where your game will take place
 
+Time Period: 
+
 - C: Ancient Times
 - S: Industrial Times
 - D: Modern Times
 - H: The Future
+
+Location: 
 
 - A: A small fishing town
 - 2: A sprawling metropolis
@@ -51,19 +55,19 @@ Before play, it should be decided when and where your game will take place
 - 7: Deception
   - Gain power when people lie
 - 8: Industry
-  - Gain power when new machines are created
+  - Gain power when new technology is used in new ways
 - 9: Competition
-  - Gain power when people play games or sports
+  - Gain power when people compete in games, sports, or simply through status.
 - 10: Beauty
   - Gain power through vanity
 - J: Arts
-  - Gain power from works of art
+  - Gain power from the creation and appreciation of art.
 - Q: Death
   - Gain power when people die or remember the dead
 - K: Chaos
   - Gain power through disrupting order
   
-Spend Power (tokens/poker chips) to increase the number of cards drawn
+Spend Power (tokens/poker chips) to increase the number of cards drawn. Each character starts with 3 tokens. After each scene, gain a token if the scene met your requirements for gaining power.
   
 
 You feel that mortals are
