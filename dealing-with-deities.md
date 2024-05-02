@@ -18,10 +18,10 @@ Before play, it should be decided when and where your game will take place
 
 Time Period: 
 
-- C: Ancient Times
-- S: Industrial Times
-- D: Modern Times
-- H: The Future
+- ♡: Ancient Times
+- ♢: Industrial Times
+- ♧ : Modern Times
+- ♤: The Future
 
 Location: 
 
@@ -74,17 +74,17 @@ Spend Power (tokens/poker chips) to increase the number of cards drawn. Each cha
 
 You feel that mortals are
 
-- H: Useful
-- C: annoying
-- D: necessary 
-- S: disgusting
+- ♡: Useful
+- ♢: annoying
+- ♧ : necessary 
+- ♤: disgusting
 
 Mortals 
 
-- H: adore you
-- C: fear you
-- D: despise you
-- S: neglect you
+- ♡: adore you
+- ♢: fear you
+- ♧ : despise you
+- ♤: neglect you
  
 Situation
 
