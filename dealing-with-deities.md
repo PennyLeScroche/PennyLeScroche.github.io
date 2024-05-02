@@ -4,7 +4,9 @@ a GMless card based game about Dysfunctional Demigods.
 
 In this game, the gods are dead, and their children feel they don't get the respect they deserve. Despite their infinite lives, demigods tend to be self-absorbed, petty, dramatic, and impulsive. This is ultimately a game about dramatic and selfish people who happen to have powers. These people both love and hate each other, and generally live to manipulate one another and the mortals they run into.
 
-compare the highest and lowest card you draw against two (or more) cards drawn in opposition, creating a yes/and, no/but system. If cards are the same face, they are ordered by suit. Hearts are the lowest, followed by diamonds, clubs, and spades being the highest.
+When you want to do something with uncertainty, or when you want to use your powers draw cards. You draw two by default and can expend your power tokens to draw more. Compare the highest and lowest card you draw against two (or more) cards drawn in opposition, creating a yes/and, no/but system. If cards are the same face, they are ordered by suit. Hearts are the lowest, followed by diamonds, clubs, and spades being the highest.
+
+If your highest card is higher than the oppositions you get what you want, if it's lower you do not. If your lowest card is higher than the oppositions you get something good that wasn't what you wanted. If your lowest card is lower something goes wrong.
 
 Expend your power to increase the number of cards drawn. When going against an NPC or other minor obstacles, only draw two cards. When opposing another demigod, you can both expend power to draw more cards.
 
