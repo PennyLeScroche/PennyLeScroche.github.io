@@ -14,7 +14,7 @@ Assign a d6 to one stat, a d8 to another, and a d10 to the last stat. Lower die 
 
 ### Taking Action
 
-When you confront a challenge in Fortune Favors the Phreaks, you roll the die associated with the stat that you are using. You can roll this die as many times as you want, adding the results each time. If your end result is between 15 and 18 then you are successful. With a 15 being barely scraping by, and an 18 being incredibly successful. A result lower than a 15 would be a failure. A result higher than an 18 is a catastrophic failure. On a catastrophic failure, things go incredibly wrong, but you are granted a mercy for future use.
+When you confront a challenge in Fortune Favors the Phreaks, you roll the die associated with the stat that you are using. You can roll this die as many times as you want, adding the results each time. If your end result is between 15 and 18 then you are successful. With a 15 being barely scraping by, and an 18 being incredibly successful. A result lower than a 15 would be a failure. A result higher than an 18 is a datastrophic failure. On a datastrophic failure, things go incredibly wrong, but you are granted a mercy for future use.
 
 #### Difficulty
 
@@ -28,7 +28,7 @@ Different tasks will be of a different difficulty, and can change the size of th
 
 #### Mercies
 
-**Mercies** are gained through catastrophic failure, or as the GM allows. Mercies can be spent to reroll a die as long as you are not currently over 18.
+**Mercies** are gained through datastrophic failure, or as the GM allows. Mercies can be spent to reroll a die as long as you are not currently over 18.
 
 #### Laying it all on the line
 
