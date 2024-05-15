@@ -135,3 +135,7 @@ Create web based version too, run entirely client side
 a group of friends revisit the place they used to play as children and imagine how their fantasy world changed as the children after them discovered this place.
 
 a timeline building game.
+
+### Competitive Dice Drafting Game
+
+Played with multiple polyhedral sets. Each player gets a board that determines what they can do based on the size and color dice that they have. X Actions per turn, where X increases up to a maximum number. (4 seems reasonable?). Board has RPG Elements? unlocking abilities with more dice?
