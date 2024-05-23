@@ -139,3 +139,14 @@ a timeline building game.
 ### Competitive Dice Drafting Game
 
 Played with multiple polyhedral sets. Each player gets a board that determines what they can do based on the size and color dice that they have. X Actions per turn, where X increases up to a maximum number. (4 seems reasonable?). Board has RPG Elements? unlocking abilities with more dice?
+
+
+### Action game with set session duration
+
+5 extraordinary people, 5 legendary items, 6 days to save the world
+
+Distortion Dice System
+
+random character and scenario creation through a card based oracle. High Fantasy default setting with a loosely defined map. The first 5 sessions are dedicated to procuring or protecting a legendary item. 
+
+the last session is a boss fight, the resources on the GMs side will be determined by the outcome of previous sessions.
