@@ -149,4 +149,10 @@ Distortion Dice System
 
 random character and scenario creation through a card based oracle. High Fantasy default setting with a loosely defined map. The first 5 sessions are dedicated to procuring or protecting a legendary item. 
 
+Each location is decided by a card
+
+Potential obstacles, assets and allies on a specialized table for location.
+
+Goals and assets for GM determined by card
+
 the last session is a boss fight, the resources on the GMs side will be determined by the outcome of previous sessions.
