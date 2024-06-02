@@ -3,11 +3,11 @@ but you can call me Penny. I'm a very queer asian american nerd. I mostly talk a
 
 ### Operation Olive Branch
 
-[Help Razan and their family evacuate Gaza](https://www.gofundme.com/f/help-20-years-old-razan-amidst-gaza-crisis)
+[Help Razan and her family evacuate Gaza](https://www.gofundme.com/f/help-20-years-old-razan-amidst-gaza-crisis)
 
 There's a good chance you're here for the [Titterpig Academy Discord](https://bit.ly/titterpig). So go ahead and click that link. If that's not why you're here, maybe consider joining anyway. We're a bunch of cool people who are passionate about ttrpgs and want to help people learn them.
 
-The May TTRPG of the month for Titterpig Bookclub is Maharlika. Available [here](https://makapatag.itch.io/maharlika-rpg-core-rulebook)
+The June TTRPG of the month for Titterpig Bookclub is To Embrace a Swamp Creature. Available [here]https://ratwavegamehouse.itch.io/to-embrace-a-swamp-creature
 
 Feedback survey for Distorted Domains is [here](https://docs.google.com/forms/d/e/1FAIpQLSfjumq6HyZGry6tnUG3JByZEYAQtUuqe_S2jtpLAghejkrEQw/viewform?usp=sf_link)
 
