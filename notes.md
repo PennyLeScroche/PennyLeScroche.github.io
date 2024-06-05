@@ -13,7 +13,7 @@ The veil was lifted, but capitalism didnt care
 
 **Additional Trait, Augment** - specialized assets that modify the way your body works.
 
-#### Superhero/Fighting Game/Shonen inspired Distortion game
+#### Bizarre Battles - Superhero/Fighting Game/Shonen inspired Distortion game
 
 That which makes us different, makes us stronger
 
@@ -25,7 +25,7 @@ Curious Combatants, Weird Warriors, Bizarre Battles
 
 **Negative aspects** - A regret you have, a weakness in your technique
 
-**Additional trait, special moves** - special fighting techniques that can be used under certain conditions OR by spending inspiration
+**Additional trait, signature moves** - special fighting techniques that can be used under certain conditions OR by spending inspiration
 
 Scenarios:
 - Part of an organization protecting this realm from beings of the spirit realm
@@ -36,7 +36,14 @@ Scenarios:
 - Powers started awakening and the world is in chaos
 - The World Ended and you're fighting to survive
 - You are selected by ancient beings as protectors and they bestow you with tremendous power
-- You pilot specialized machines in order to protect the world 
+- You pilot specialized machines in order to protect the world
+
+Playsets: 
+- Support different settings with specific tables via a "playset" book
+- 2-3 small sample playsets included in the game
+    - Standard Heroic Fantasy (D&D, Heroes of Might & Magic, Avatar)
+    - Modern Supernatural Demon Hunters (Soul Eater, YuYu Hakusho, JJK)
+    - Science Fantasy Laser Swords and Magic Pistols (Outlaw Star, Star Wars, GunXSword)
 
 Types of Powers:
 - Physically altered bodies
@@ -48,10 +55,18 @@ Types of Powers:
     - Energy weapons
     - Beings with tremendous power
 - Elemental control
+    - Energy blasts
+    - Telekinesis
 - Time manipulation
 - Manipulation of senses
+    - Invisibility
+    - Sound manipulation
+    - Putrid Smells
+- Enhanced abilities
+    - Super Speed
+    - Super Strength
 
-#### Sci-Fi Space Opera Game
+#### Cosmic Cowboys - Sci-Fi Space Opera Game
 
 Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the place you call home
 
