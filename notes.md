@@ -140,8 +140,6 @@ a timeline building game.
 
 Played with multiple polyhedral sets. Each player gets a board that determines what they can do based on the size and color dice that they have. X Actions per turn, where X increases up to a maximum number. (4 seems reasonable?). Board has RPG Elements? unlocking abilities with more dice?
 
-Roll and Write mechanics, dungeon crawling fantasy hero type theme. Obstacles determined via cards, players select from their pool of dice and roll all at once, then mark down progress based on the die results. 1-4 players?
-
 
 ### Action game with set session duration
 
@@ -158,3 +156,9 @@ Potential obstacles, assets and allies on a specialized table for location.
 Goals and assets for GM determined by card
 
 the last session is a boss fight, the resources on the GMs side will be determined by the outcome of previous sessions.
+
+Tea shop cozy game?
+
+Competitive metroidvania
+
+Stylized movement and ability focused boomer shooter
