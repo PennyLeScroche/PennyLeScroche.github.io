@@ -17,7 +17,7 @@ The veil was lifted, but capitalism didnt care
 
 That which makes us different, makes us stronger
 
-Curious Combatants, Weird Warriors, Bizarre Battles
+Curious Combatants, Weird Warriors, **Bizarre Battles**
 
 **Stats** - Might, Mental, Marvel, Move OR Strength, Smarts, Spirit, Speed
 
@@ -176,4 +176,4 @@ Tea shop cozy game?
 
 Competitive metroidvania
 
-Stylized movement and ability focused boomer shooter
+Stylized movement and ability focused boomer shooter. Overgrown city ruins type of setting/aesthetic
