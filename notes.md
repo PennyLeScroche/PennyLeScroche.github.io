@@ -160,7 +160,7 @@ Played with multiple polyhedral sets. Each player gets a board that determines w
 
 5 extraordinary people, 5 legendary items, 6 days to save the world
 
-Distortion Dice System
+Distortion Dice or Paragon/Agon System
 
 random character and scenario creation through a card based oracle. High Fantasy default setting with a loosely defined map. The first 5 sessions are dedicated to procuring or protecting a legendary item. 
 
