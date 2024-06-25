@@ -13,11 +13,11 @@ The veil was lifted, but capitalism didnt care
 
 **Additional Trait, Augment** - specialized assets that modify the way your body works.
 
-#### Bizarre Battles - Superhero/Fighting Game/Shonen inspired Distortion game
+#### Superhero/Fighting Game/Shonen inspired Distortion game
 
 That which makes us different, makes us stronger
 
-Curious Combatants, Weird Warriors, **Bizarre Battles**
+Curious Combatants, Weird Warriors, Bizarre Battles
 
 **Stats** - Might, Mental, Marvel, Move OR Strength, Smarts, Spirit, Speed
 
@@ -25,7 +25,7 @@ Curious Combatants, Weird Warriors, **Bizarre Battles**
 
 **Negative aspects** - A regret you have, a weakness in your technique
 
-**Additional trait, signature moves** - special fighting techniques that can be used under certain conditions OR by spending inspiration
+**Additional trait, special moves** - special fighting techniques that can be used under certain conditions OR by spending inspiration
 
 Scenarios:
 - Part of an organization protecting this realm from beings of the spirit realm
@@ -36,14 +36,7 @@ Scenarios:
 - Powers started awakening and the world is in chaos
 - The World Ended and you're fighting to survive
 - You are selected by ancient beings as protectors and they bestow you with tremendous power
-- You pilot specialized machines in order to protect the world
-
-Playsets: 
-- Support different settings with specific tables via a "playset" book
-- 2-3 small sample playsets included in the game
-    - Standard Heroic Fantasy (D&D, Heroes of Might & Magic, Avatar)
-    - Modern Supernatural Demon Hunters (Soul Eater, YuYu Hakusho, JJK)
-    - Science Fantasy Laser Swords and Magic Pistols (Outlaw Star, Star Wars, GunXSword)
+- You pilot specialized machines in order to protect the world 
 
 Types of Powers:
 - Physically altered bodies
@@ -55,18 +48,10 @@ Types of Powers:
     - Energy weapons
     - Beings with tremendous power
 - Elemental control
-    - Energy blasts
-    - Telekinesis
 - Time manipulation
 - Manipulation of senses
-    - Invisibility
-    - Sound manipulation
-    - Putrid Smells
-- Enhanced abilities
-    - Super Speed
-    - Super Strength
 
-#### Cosmic Cowboys - Sci-Fi Space Opera Game
+#### Sci-Fi Space Opera Game
 
 Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the place you call home
 
@@ -160,7 +145,7 @@ Played with multiple polyhedral sets. Each player gets a board that determines w
 
 5 extraordinary people, 5 legendary items, 6 days to save the world
 
-Distortion Dice or Paragon/Agon System
+Distortion Dice System
 
 random character and scenario creation through a card based oracle. High Fantasy default setting with a loosely defined map. The first 5 sessions are dedicated to procuring or protecting a legendary item. 
 
@@ -176,4 +161,6 @@ Tea shop cozy game?
 
 Competitive metroidvania
 
-Stylized movement and ability focused boomer shooter. Overgrown city ruins type of setting/aesthetic
+Stylized movement and ability focused boomer shooter
+
+Simultaneous turn boss battle/monster hunter inspired game with action economy and status effects
