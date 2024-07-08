@@ -166,3 +166,5 @@ Competitive metroidvania
 Stylized movement and ability focused boomer shooter
 
 Simultaneous turn boss battle/monster hunter inspired game with action economy and status effects
+
+Inn-terdimendional: A game about running an Inn that exists between realms. Your customers can be cryptids, eldritch beings, faeries, vampires, space aliens, and ghosts
