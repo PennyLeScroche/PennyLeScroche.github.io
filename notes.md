@@ -1,3 +1,8 @@
+## Distorted Domains to do
+
+- Negative aspect tables
+- examples of play
+- GM Guidance on adventure design, obstacle creation
 
 ### Other games
 
