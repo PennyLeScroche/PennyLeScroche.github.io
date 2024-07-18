@@ -173,4 +173,4 @@ Stylized movement and ability focused boomer shooter
 Simultaneous turn boss battle/monster hunter inspired game with action economy and status effects
 
 Inn-terdimendional: A game about running an Inn that exists between realms. Your customers can be cryptids, eldritch beings, faeries, vampires, space aliens, and ghosts
-You start with normal customers, and things get weirder as reality warps and unravels. Eventually you get to create a meal for the physical manifestation of creation
+You start with normal customers, and things get weirder as reality warps and unravels. First starting with strange plants and mushrooms showing up, then temporary rifts bring in stranger customers. Eventually you get to create a meal for the physical manifestation of creation
