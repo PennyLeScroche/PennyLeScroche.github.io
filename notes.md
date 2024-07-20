@@ -174,3 +174,7 @@ Simultaneous turn boss battle/monster hunter inspired game with action economy a
 
 Inn-terdimendional: A game about running an Inn that exists between realms. Your customers can be cryptids, eldritch beings, faeries, vampires, space aliens, and ghosts
 You start with normal customers, and things get weirder as reality warps and unravels. First starting with strange plants and mushrooms showing up, then temporary rifts bring in stranger customers. Eventually you get to create a meal for the physical manifestation of creation
+
+Game about taking over your grandmas noodle shop and preserving family recipes
+
+Card based ttrpg where you play a recipe that changes due to colonization, natural disasters, and relocation
