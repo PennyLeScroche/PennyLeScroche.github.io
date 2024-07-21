@@ -18,6 +18,26 @@ By default, each stat also has a harm track. The harm track is basically the str
 
 When coming up with your stats, be sure to think about all of the different actions that a player may want to do when playing your game, and how those could fall into one or more of your stats. I generally prefer stats are that are fairly broad in scope. Another consideration for how many stats that you have, is that it directly relates to how many harm tracks a character has as well. Generally, a character with more harm tracks will be more resilient than a character with fewer harm tracks. So only having two stats could make your game more deadly, though this does depend on how you handle harm and healing, as you can simply opt to have death not be on the table at all, and you can make healing abundant in different ways.
 
+#### Alternatives to the standard roll
+
+**D6 Only**
+
+In this variation, instead of having a mixed pool of dice, you have a number of d6s for each asset, aspect, and stat. Instead of having die ratings, you will instead use numerical ratings such as 1,2,3, or 4 where 1 = 1d6, 2 = 2d6, etc. One of the major advantages here is d6s can be more accessible to more people. Things are also easier for the GM, since they will not have to think about die size anymore, just number of dice. One notable thing is that this makes critical successes very rare. 
+
+**Compare the Highest and Lowest**
+
+In this variation, instead of only keeping the highest die, you keep both the highest and the lowest and compare both to the GMs highest and lowest. If your highest die is higher than the GMs highest, that is a success. If your lowest die is also higher than the GMs lowest die, that success comes without any complications. See table below
+
+Player Highest | Player Lowest | Result
+:------------: | :-----------: | :----:
+Higher         | Higher        | Success
+Higher         | Lower         | Success with consequences
+Lower          | Higher        | Failure with positive side effect
+Lower          | Lower         | Failure
+
+This rolling mechanism increases the odds of a success with consequences, and adds in the option for a failure with a positive side effect. This type of rolling works well for games where negative outcomes are wanted more often and will always help drive the story forward. Something with an interpersonal drama focus where the harm being represented is lower stakes to the character. Due to the higher chance of success with consequences, the system for negative aspects will likely also need extra attention.
+
+
 ### Harm
 
 I've already talked about harm a little bit, basically the idea behind a harm track is that everytime a character does something with a level of uncertainty they are doing so under duress. As they fail, the amount of stress increases, resulting in an increased harm die. This stress can represent social stress such as anger or feelings of awkwardness. It can represent a loss of confidence, it can represent a mental block, or it can represent physical harm done to the character. All of these things are harm done to a character.
