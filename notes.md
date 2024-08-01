@@ -164,9 +164,11 @@ Goals and assets for GM determined by card
 
 the last session is a boss fight, the resources on the GMs side will be determined by the outcome of previous sessions.
 
+#### Other Ideas
+
 Tea shop cozy game?
 
-Competitive metroidvania
+Competitive metroidvania - Map with set spawn points but random spawns. Miniature Last Man Standing (3 lives by default?) Allow a variety of builds (movement, range, damage, tanky, area control)
 
 Stylized movement and ability focused boomer shooter
 
@@ -175,6 +177,9 @@ Simultaneous turn boss battle/monster hunter inspired game with action economy a
 Inn-terdimendional: A game about running an Inn that exists between realms. Your customers can be cryptids, eldritch beings, faeries, vampires, space aliens, and ghosts
 You start with normal customers, and things get weirder as reality warps and unravels. First starting with strange plants and mushrooms showing up, then temporary rifts bring in stranger customers. Eventually you get to create a meal for the physical manifestation of creation
 
-Game about taking over your grandmas noodle shop and preserving family recipes
+Video Game about taking over your grandmas noodle shop and preserving family recipes. Different family members and family friends will have a variety of recipes. Many of the recipes can come from multiple sources, and will be adjusted to the tastes of the person you get it from.
 
 Card based ttrpg where you play a recipe that changes due to colonization, natural disasters, and relocation
+
+TTRPG Setting: Shards of Null
+Mostly standard fantasy setting. Takes place after crystalline shards from the void rain down, corrupting everything around them. Support for Quest & Bizarre Battles
