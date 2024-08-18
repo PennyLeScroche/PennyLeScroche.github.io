@@ -5,7 +5,7 @@ but you can call me Penny. I'm a very queer asian american nerd. I mostly talk a
 
 There's a good chance you're here for the [Titterpig Academy Discord](https://bit.ly/titterpig). So go ahead and click that link. If that's not why you're here, maybe consider joining anyway. We're a bunch of cool people who are passionate about ttrpgs and want to help people learn them.
 
-The June TTRPG of the month for Titterpig Bookclub is To Embrace a Swamp Creature. Available [here]https://ratwavegamehouse.itch.io/to-embrace-a-swamp-creature
+My games will now be published under the name Transcendent Tapir, which is the name of the game development cooperative I'm starting. Website coming soon, join the [discord](https://tinyurl/transtapir) to follow along, discuss our games, and we are also open to accepting contributors in the form of contractors or owners.
 
 Feedback survey for Distorted Domains is [here](https://docs.google.com/forms/d/e/1FAIpQLSfjumq6HyZGry6tnUG3JByZEYAQtUuqe_S2jtpLAghejkrEQw/viewform?usp=sf_link)
 
