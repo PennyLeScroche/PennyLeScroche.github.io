@@ -13,7 +13,7 @@ Feedback survey for Distorted Domains is [here](https://docs.google.com/forms/d/
 
 I've got a [pronouns.page](https://en.pronouns.page/@pennylescroche) if you want to know all my pronouns and what terms I'm comfortable with.
 
-I've also got an [itch](https://pennylescroche.itch.io) page where I put my games
+I've also got an [itch](https://pennylescroche.itch.io) page where I put my games when I get around to making a pdf for them
 
 Follow me on my Socials
 - [Mastodon](https://indiepocalypse.social/@pennylescroche)
@@ -21,3 +21,4 @@ Follow me on my Socials
 - [TikTok](https://tiktok.com/@pennylescroche)
 - [YouTube](https://youtube.com/@pennylescroche)
 - [Twitch](https://twitch.tv/pennylescroche)
+- [Threads](https://www.threads.net/@pennylescroche)
