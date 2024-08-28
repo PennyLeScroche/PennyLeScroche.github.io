@@ -121,6 +121,8 @@ Old gods and lost pieces of culture become assets or aspects, you gain them by f
 
 Start the game with rumors, traditions with lost meaning, and lies told to you by established powers
 
+Maybe change idea to a semi-cozy exploration based video game
+
 
 
 ### Card Game
