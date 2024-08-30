@@ -16,3 +16,7 @@ Games I have made. All of them are also over on my [itch page](https://pennylesc
 |  [![Text of Distorted Domains on a space background with the first D fading to the left and the second O being a lens flare](https://img.itch.zone/aW1nLzE2MjQyOTYyLnBuZw==/347x500/bwGWE7.png)](https://pennylescroche.github.io/Distorted-Domains) | [\<title image goes here\>](https://pennylescroche.github.io/Plucky-Princesses) | [\<title image goes here\>](https://pennylescroche.github.io/Spectral-Sleuths) | [\<title image goes here\>](https://pennylescroche.github.io/dealing-with-deities)
 | A gonzo science fantasy adventure game | A game of magical princesses facing challenges and saving their kingdom | A supernatural investigation game of ordinary people looking into extraordinary phenomena | A GMless game of dysfunctional demigods
 
+### Other
+
+- [Distortion Dice TTRPG Toolkit](https://pennylescroche.github.io/ttrpgstuff/distortiondice)
+
