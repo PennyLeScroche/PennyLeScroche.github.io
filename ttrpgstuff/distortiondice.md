@@ -26,7 +26,7 @@ In this variation, instead of having a mixed pool of dice, you have a number of 
 
 **Compare the Highest and Lowest**
 
-In this variation, instead of only keeping the highest die, you keep both the highest and the lowest and compare both to the GMs highest and lowest. If your highest die is higher than the GMs highest, that is a success. If your lowest die is also higher than the GMs lowest die, that success comes without any complications. See table below
+In this variation, instead of only keeping the highest die, you keep both the highest and the lowest and compare both to the GMs highest and lowest. If your highest die is higher than the GMs highest, that is a success. If your lowest die is also higher than the GMs lowest die, that success comes without any complications. In the case of ties, players are assumed to win ties on the highest die and lose ties on the lowest die. For player vs player conflict, replace "player" and "gm" with "initiator" and "responder" to indicate who initiated the conflict and who responding to it.
 
 Player Highest | Player Lowest | Result
 :------------: | :-----------: | :----:
