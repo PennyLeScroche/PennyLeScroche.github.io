@@ -1,9 +1,7 @@
 # Hi, I'm Khampheng,
 but you can call me Penny. I'm a very queer asian american nerd. I mostly talk about TTRPG stuff, but occasionally delve into my other nerdy interests such as privacy, open source software, indie videogames, and fighting games.
 
-[Help Ahmed & Nour escape Gaza](https://gofund.me/f25b26c1)
-
-[Join the Queer Game Jam](https://itch.io/jam/queer-game-jam)
+[Join the Queertober Game Jam](https://itch.io/jam/queertober)
 
 There's a good chance you're here for the [Titterpig Academy Discord](https://bit.ly/titterpig). So go ahead and click that link. If that's not why you're here, maybe consider joining anyway. We're a bunch of cool people who are passionate about ttrpgs and want to help people learn them.
 
