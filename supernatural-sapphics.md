@@ -12,7 +12,7 @@ Stats are the different ways you can interact with the world, and be sexy. Each 
     - Alone
 - Smart - Intelligence of any kind
     - Anxious
-- Spooky - Ability to connect to the veil and use otherworldly power
+- Spirit - Ability to connect to the veil and use or resist otherworldly power
     - Afraid
 
 ## Aspects
