@@ -1,6 +1,6 @@
 # Supernatural Sapphics
 
-Supernatural Sapphics is a Distortion Dice game about the messy queer relationships between supernatural beings and the humans fascinated by them. This is not a game about working together to overcome a common goal, the characters in Supernatural Sapphics can be toxic, selfish, or simply naive and will end up hurting each other. Player vs Player conflict is not only expected, it is ecouraged.
+Supernatural Sapphics is a Distortion Dice game about the messy queer relationships between supernatural beings and the humans fascinated by them. This is not a game about working together to overcome a common goal, the characters in Supernatural Sapphics can be toxic, selfish, or simply naive and will end up hurting each other. Player vs Player conflict is not only expected, it is ecouraged. While this game does use terms like sapphic, woman, and lesbian, you are not required to play a lesbian, and all types of identities are welcome. However, it is fundamentally a game about disaster queers and their relationships, so if your desire is to play a cishet character, you should take time to examine why that is, and if that character would fit into the stories this game is meant to tell.
 
 ## Stats
 
