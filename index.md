@@ -15,7 +15,6 @@ I've also got an [itch](https://pennylescroche.itch.io) page where I put my game
 
 Follow me on my Socials
 - [Mastodon](https://indiepocalypse.social/@pennylescroche)
-- [Cohost](https://cohost.org/pennylescroche)
 - [TikTok](https://tiktok.com/@pennylescroche)
 - [YouTube](https://youtube.com/@pennylescroche)
 - [Twitch](https://twitch.tv/pennylescroche)
