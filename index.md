@@ -19,3 +19,4 @@ Follow me on my Socials
 - [YouTube](https://youtube.com/@pennylescroche)
 - [Twitch](https://twitch.tv/pennylescroche)
 - [Threads](https://www.threads.net/@pennylescroche)
+- [Instagram](https://www.instagram.com/pennylescroche/)
