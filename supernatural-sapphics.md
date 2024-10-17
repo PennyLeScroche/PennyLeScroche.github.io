@@ -137,3 +137,7 @@ Ask the players where they are at and how they are responding to the disruption.
 When a character is trying to influence another character, or whenever a character is trying to overcome an obstacle with risks involved, a roll is called. The character initiating this action creates their dice pool first. For Bottoms, the dice is made up of the stat that best matches their approach, and any relevant assets and aspects. For the Top, the dice pool is made up of dice that represent the difficulty of the action, or from traits of the NPC. In addition to this, each party gets the appropriate stress die from their opposition, and can give their opponent 1 Drive to use a negative aspect. The highest die in each pool is compared.
 The chatacter or obstacle with the highest die result gets what they want with the initiator winning ties.
 The lowest die in each pool is also compared to determine if there is a bonus effect or an extra cost.
+
+## Stress
+
+NPCs have stress tracks just like Bottoms. However, Obstacles that take more than one action to overcome have a singular progress track that counts up just as a stress track would.
