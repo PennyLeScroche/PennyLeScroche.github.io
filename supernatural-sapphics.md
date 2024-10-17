@@ -113,11 +113,19 @@ D6 | Disruption
 
 Create some NPCs
 
-D6 | Adjective | Person
+D6 | Type | Style |Adjective | Person
 :-: | :-: | :-:
-1 | Ambitious | Witch
-2 | Nervous | Mothperson
-3 | Curious | Fae
-4 | Territorial | Vampire
-5 | Vengeful | Ghost
-6 | Greedy | Human
+1 | Tall | Butch | Ambitious | Witch
+2 | Short | Femme | Nervous | Mothperson
+3 | Athletic | Cottagecore |Curious | Fae
+4 | Thicc | Futch | Territorial | Vampire
+5 | Muscular | Goth | Vengeful | Ghost
+6 | Thin | Punk | Greedy | Human
+
+## Set the Scene
+
+Ask the players where they are at and how they are responding to the disruption. Start the first scene with whoever got into a new relationship most recently and the Bottoms and NPCs that would be in that location as well.
+
+## Call for rolls
+
+When a character is trying to influence another character, or whenever a character is trying to overcome an obstacle with risks involved, a roll is called. The character initiating this action creates their dice pool first. For Bottoms, the dice is made up of the stat that best matches their approach, and any relevant assets and aspects. For the Top, the dice pool is made up of dice that represent the difficulty of the action, or from traits of the NPC
