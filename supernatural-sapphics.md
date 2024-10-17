@@ -100,7 +100,7 @@ D6 | Settlement
 
 The second step is to create a situation, and the people involved in it
 
-What new thing is causing a disruption?
+### What new thing is causing a disruption?
 
 D6 | Disruption
 :-: | :-:
@@ -111,7 +111,9 @@ D6 | Disruption
 5 | Something new is calling on the power of the veil
 6 | A being of the veil is doing something that might get them exposed
 
-Create some NPCs
+### Create some NPCs
+
+Roll on the table below to Create 3-5 NPCs
 
 D6 | Type | Style |Adjective | Person
 :-: | :-: | :-:
@@ -122,10 +124,16 @@ D6 | Type | Style |Adjective | Person
 5 | Muscular | Goth | Vengeful | Ghost
 6 | Thin | Punk | Greedy | Human
 
+### Set their relationships
+
+Give each NPC a d8 important relationship with another character. 1 or 2 d6 mildly important relationships. All unlisted relationships are a d4.
+
 ## Set the Scene
 
 Ask the players where they are at and how they are responding to the disruption. Start the first scene with whoever got into a new relationship most recently and the Bottoms and NPCs that would be in that location as well.
 
 ## Call for rolls
 
-When a character is trying to influence another character, or whenever a character is trying to overcome an obstacle with risks involved, a roll is called. The character initiating this action creates their dice pool first. For Bottoms, the dice is made up of the stat that best matches their approach, and any relevant assets and aspects. For the Top, the dice pool is made up of dice that represent the difficulty of the action, or from traits of the NPC
+When a character is trying to influence another character, or whenever a character is trying to overcome an obstacle with risks involved, a roll is called. The character initiating this action creates their dice pool first. For Bottoms, the dice is made up of the stat that best matches their approach, and any relevant assets and aspects. For the Top, the dice pool is made up of dice that represent the difficulty of the action, or from traits of the NPC. In addition to this, each party gets the appropriate stress die from their opposition, and can give their opponent 1 Drive to use a negative aspect. The highest die in each pool is compared.
+The chatacter or obstacle with the highest die result gets what they want with the initiator winning ties.
+The lowest die in each pool is also compared to determine if there is a bonus effect or an extra cost.
