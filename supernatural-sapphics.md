@@ -39,7 +39,7 @@ Stats are the different ways you can interact with the world, and be sexy. Each 
 
 ### Relationships 
 
-Each relationship has a die rating and a statement about how you feel about that person. If you are acting in accordance to how you feel you use the die in your pool, other it goes in the opposing pool. The die rating represents how important the relationship is, good or bad.
+Each relationship has a die rating and a statement about how you feel about that person. If you are acting in accordance to how you feel you use the die in your pool, otherwise you use a d4 relationship die. The die rating represents how important the relationship is, good or bad, and how sure you are of how you feel about this person.
 
 You start with one relationship at d10, one at d8, two at d4 and the rest at d6
 
@@ -56,17 +56,25 @@ The lowest die determines if there is a bonus effect (beating the opposition) or
 
 On a positive or extremely positive result, the initiator narrates the outcome. On a negative result, the opposition narrates. The initiator gets to decide what small bonus effect there is, and the opposition would decide the extra cost, which can be a narrative only consequence or stress.
 
+## Stress
+
+Stress is the negative consequences of things not going your way. Each stat has an associated stress track. Angry for Strong, Alone for Smooth, etc. Stress has a minimum value of a d4 and a maximum of d12. If a stress track would ever be raised above a d12, that character (whether a Bottom or Doll) is Overwhelmed and cannot act for the rest of the scene. When a character becomes Overwhelmed, their stress track resets to d4, and they must re-evaluate a relationship. If a relationship die was used in the roll that caused them to become Overwhelmed, that is the relationship that should be re-evaluated.
+
 ## Drive
 
-Drive is gained when you suffer negative consequences, either through a negative result or a mixed result. You can spend one drive to step up a die in your pool to the next die size. You can also spend one to invoke a negative aspect in a roll against another character. You can spend 5 to reevaluate a relationship, which allows you to change how you view that person. If you do this during a roll, use that relationship die twice. Re-evaluating a relationship fully clears one stress track.
+Drive is gained when you suffer negative consequences, either through a negative result or a extra cost. You might also gain Drive by helping someone else reduce Stress, or by someone activating a Negative Aspect. You can spend one drive to step up a die in your pool to the next die size, this can be done multiple times on the same roll. You can also spend one to invoke a negative aspect in a roll against another character. Drive can also be spent after a roll to change the Stress a character takes to a different Stress track, this allows a character to avoid becoming Overwhelmed. You can spend 5 Drive to reevaluate a relationship, which allows you to change how you view that person. If you do this during a roll, use that relationship die twice. Re-evaluating a relationship fully clears one stress track.
 
 ## Reducing Stress
 
 Reducing Stress can be done in three ways. The first is taking a moment to rest and process your emotions. This reduces a single stress track by 1 step.
 
-The second is through connection. Talking to a friend or allowing someone to help you reduces your stress. The person helping will roll against the stress track they are trying to reduce. On an extremely positive result it is reduced by 3, on a positive result it is reduced by 2, and a negative result still reduces your stress by 1. The bonus effect is reducing a stress track of their own by 1, and an extra cost is raising their stress track by 1. This means that a negative result with an extra cost raises their stress by 2. As usual, the die being rolled by the person helping should be the one that best fits their approach to the problem. Helping someone else recover from stress always grants 1 inspiration, regardless of any stress received.
+The second is through connection. Talking to a friend or allowing someone to help you reduces your stress. The person helping will roll against the stress track they are trying to reduce. On an extremely positive result it is reduced by 3, on a positive result it is reduced by 2, and a negative result still reduces your stress by 1. The bonus effect is reducing a stress track of their own by 1, and an extra cost is raising their stress track by 1. This means that a negative result with an extra cost raises their stress by 2. As usual, the die being rolled by the person helping should be the one that best fits their approach to the problem. Helping someone else recover from stress always grants 1 Drive, regardless of any stress received.
 
-The second is through reevaluating a relationship. If you spend 5 drive to re-evaulate a relationship, you fully clear a stress track.
+The third is through reevaluating a relationship. If you spend 5 drive to re-evaulate a relationship, you fully clear a stress track.
+
+## Reevaluating a Relationship
+
+Re-evaluating a Relationship can happen in one of two ways. Spending Drive or becoming Overwhelmed. Either way, it has the same effect of resetting one Stress Track to d4, causing you to re-write one relationship, and giving you the opportunity to lower one relationship die in order to raise another relationship die.
 
 # Setting up the game
 
@@ -115,6 +123,10 @@ D6 | Disruption
 
 Roll on the table below to Create 3-5 NPCs
 
+NPCs come in two forms
+- **Dolls** These are important NPCs that come with their own relationships and stress tracks.
+- **Extras** These are simple NPCs that are essentially part of the environment that can talk. They will probably only have 1-3 dice that they can use.
+
 D6 | Type | Style |Adjective | Person
 :-: | :-: | :-:
 1 | Tall | Butch | Ambitious | Witch
@@ -141,3 +153,7 @@ The lowest die in each pool is also compared to determine if there is a bonus ef
 ## Stress
 
 NPCs have stress tracks just like Bottoms. However, Obstacles that take more than one action to overcome have a singular progress track that counts up just as a stress track would.
+
+## Drive
+
+The Top has Drive that can be spent just like the Bottoms. However, the Top gains drive in a different way. The Top starts with 1 drive for each Bottom, and gain Drive only when it is spent by Bottoms. For each Roll where a Bottom spends Drive, the Top will gain 1 Drive after the roll is resolved. When a Bottom spends 5 Drive to re-evaluate a relationship, the top gains 1 Drive.
