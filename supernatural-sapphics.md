@@ -48,7 +48,7 @@ You start with one relationship at d10, one at d8, two at d4 and the rest at d6
 
 In order to affect the other characters around you, or when there's a risk involved for any action, you make a roll. Rolls in Supernatural Sapphics are made by building a dice pool, rolling against another dice pool, and comparing the highest and lowest die. Results are determined by who is the initiator, as well as what the highest and lowest die in each pool was.
 
-You start by picking the stat that best matches your approach to the action you are attempting. You may also add in the relevant aspects and relationships that would help you, if rolling against another player you also get the relevant stress die for their approach. Whoever is opposing you gets the stress die that matches your approach, in addition to the dice for their own approach and any relevant aspects or relationships.
+You start by picking the stat that best matches your approach to the action you are attempting. You may also add in the relevant aspects and relationships that would help you, you also get the relevant stress or progress die from the opposing party, whether Bottom, Doll, Extra, or Obstacle. Whoever is opposing you gets the stress die that matches your approach, in addition to the dice for their own approach and any relevant aspects or relationships.
 
 For the initiator, the Highest die determines if the result is extremely positive (beating the opposition by 5+), positive (beating or tying the opposition), or negative (beaten by the opposition).
 
