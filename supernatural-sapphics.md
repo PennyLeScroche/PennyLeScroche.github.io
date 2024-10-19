@@ -2,6 +2,8 @@
 
 Supernatural Sapphics is a role playing game for 2 or more players, one player taking the role of the Top, who runs the game, and the rest of the players take the role of Bottoms, which are characters in the game. This Distortion Dice game is about the messy queer relationships between beings of the veil (vampires, fae, ghosts, cryptids, etc) and the humans fascinated by them. This is not a game about working together to overcome a common goal, the characters in Supernatural Sapphics can be toxic, selfish, or simply naive and will end up hurting each other. Player vs Player conflict is not only expected, it is ecouraged. While this game does use terms like sapphic, woman, and lesbian, you are not required to play a lesbian, and all types of identities are welcome. However, it is fundamentally a game about disaster queers and their relationships, so if your desire is to play a cishet character, you should take time to examine why that is, and if that character would fit into the stories this game is meant to tell. Every character in Supernatural Sapphics is undeniably hot, regardless of body type, presentation, etc. they are still recognized as hot regardless of personal preferences. Please remember that while the characters can be toxic, manipulative, and self-centered, the other players at the table are real people with real feelings, so communicate as adults to ensure that everyone is comfortable and enjoying themselves. Tools like lines & veils, the X card, and Script Change are all helpful in this area.
 
+# Character Creation
+
 ## Stats
 
 Stats are the different ways you can interact with the world, and be sexy. Each has an associated harm track that goes up when you get a negative result or extra cost when using that stat.
@@ -39,9 +41,13 @@ Stats are the different ways you can interact with the world, and be sexy. Each 
 
 ### Relationships 
 
-Each relationship has a die rating and a statement about how you feel about that person. If you are acting in accordance to how you feel you use the die in your pool, otherwise you use a d4 relationship die. The die rating represents how important the relationship is, good or bad, and how sure you are of how you feel about this person.
+Stop here, and have the Top run the **Setting up the Game** section before continuing. Each relationship has a die rating and a statement about how you feel about that person. If you are acting in accordance to how you feel you use the die in your pool, otherwise you use a d4 relationship die. The die rating represents how important the relationship is, good or bad, and how sure you are of how you feel about this person.
 
-You start with one relationship at d10, one at d8, two at d4 and the rest at d6
+You start with one relationship at d10, one at d8, two at d4 and the rest at d6.
+
+## Bottom Principles
+
+You are playing flawed individuals who often don't fully think things through when making decisions. You are encouraged to engage in toxic, manipulative, and self-destructive behavior in pursuit of your goals. Think of your Bottom as one of the main characters in queer drama TV show or movie with an ensemble cast.
 
 
 ## Rolls
@@ -62,7 +68,7 @@ Stress is the negative consequences of things not going your way. Each stat has 
 
 ## Drive
 
-Drive is gained when you suffer negative consequences, either through a negative result or a extra cost. You might also gain Drive by helping someone else reduce Stress, or by someone activating a Negative Aspect. You can spend one drive to step up a die in your pool to the next die size, this can be done multiple times on the same roll. You can also spend one to invoke a negative aspect in a roll against another character. Drive can also be spent after a roll to change the Stress a character takes to a different Stress track, this allows a character to avoid becoming Overwhelmed. You can spend 5 Drive to reevaluate a relationship, which allows you to change how you view that person. If you do this during a roll, use that relationship die twice. Re-evaluating a relationship fully clears one stress track.
+Drive is gained when you suffer negative consequences, either through a negative result or a extra cost. You might also gain Drive by helping someone else reduce Stress, or by someone activating a Negative Aspect. You can spend one drive to step up a die in your pool to the next die size, this can be done multiple times on the same roll. You can also spend one to invoke a negative aspect in a roll against another character. Drive can also be spent after a roll to change the Stress a character takes to a different Stress track, this allows a character to avoid becoming Overwhelmed. You can spend 5 Drive to reevaluate a relationship, which allows you to change how you view that person. If you do this during a roll, use that relationship die twice. Re-evaluating a relationship fully clears one stress track. You can also spend 1 Drive to have your Bottom or an Extra dramatically enter a scene that you were not previously in, so long as it's not logically impossible for that character to do so. Extras are generally not important enough to warrant a relationship die, but if your Bottom finds that they are developing strong feelings for an Extra, you can spend 5 Drive to create a new relationship at a d6. This also triggers the Re-evaluate a Relationship mechanic.
 
 ## Reducing Stress
 
@@ -142,7 +148,11 @@ D8 | Type | Style |Adjective | Person
 
 ### Set their relationships
 
-Give each NPC a d8 important relationship with another character. 1 or 2 d6 mildly important relationships. All unlisted relationships are a d4.
+Give each Doll a d8 important relationship with another character. 1 or 2 d6 mildly important relationships. All unlisted relationships are a d4. Extras do not have relationships. At this point, have the Bottoms set their relationships with the Dolls and each other.
+
+## Top Principles
+
+You are playing the world. Make the world feel dramatic, but logically consistent. Think of Dolls as the supporting cast of a dramatic TV show or Movie, and the Extras as extras with only a handful of spoken lines. The narrative is incredibly player driven and can change, so occasionally an Extra can become a Doll, especially if a Bottom spends Drive to create a relationship with them.
 
 ## Set the Scene
 
@@ -156,8 +166,8 @@ The lowest die in each pool is also compared to determine if there is a bonus ef
 
 ## Stress
 
-NPCs have stress tracks just like Bottoms. However, Obstacles that take more than one action to overcome have a singular progress track that counts up just as a stress track would.
+NPCs have stress tracks just like Bottoms. However, Obstacles and Extras that take more than one action to overcome or manipulate have a singular progress track that counts up just as a stress track would. A single success creates the progress track at a d6, or steps up the die size by one. A Critical Success steps up the progress by 2. The complexity of the task determines how far the progress track needs to go before completion, a short task need to reach a d8, a medium length task needs to reach a d12, and a long task needs to be raised above a d12. If two characters are trying to affect an Obstacle or Extra in different ways, they each get a progress track and race to their goal.
 
 ## Drive
 
-The Top has Drive that can be spent just like the Bottoms. However, the Top gains drive in a different way. The Top starts with 1 drive for each Bottom, and gain Drive only when it is spent by Bottoms. For each Roll where a Bottom spends Drive, the Top will gain 1 Drive after the roll is resolved. When a Bottom spends 5 Drive to re-evaluate a relationship, the top gains 1 Drive.
+The Top can spend Drive in all of the same ways that Bottoms can, with the exception of creation relationships with Extras. However, the Top gains drive in a different way. The Top starts with 1 drive for each Bottom, and gain Drive only when it is spent by Bottoms. For each Roll where a Bottom spends Drive, the Top will gain 1 Drive after the roll is resolved. When a Bottom spends 5 Drive to re-evaluate a relationship, the top gains 1 Drive. 
