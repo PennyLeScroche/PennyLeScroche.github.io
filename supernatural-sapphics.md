@@ -104,6 +104,8 @@ D6 | Settlement
 5 | An isolated bastion
 6 | A sparsely populated rural area
 
+Go around the table, and have every player (including yourself) suggest an important location
+
 ## The Situation
 
 The second step is to create a situation, and the people involved in it
