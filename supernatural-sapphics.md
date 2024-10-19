@@ -10,7 +10,7 @@ Stats are the different ways you can interact with the world, and be sexy. Each 
     - Angry
 - Smooth - Social aptitude, and ability to connect with or manipulate people
     - Alone
-- Smart - Intelligence of any kind
+- Smart - Knowledge and problem solving ability
     - Anxious
 - Spirit - Ability to connect to the veil and use or resist otherworldly power
     - Afraid
@@ -127,14 +127,16 @@ NPCs come in two forms
 - **Dolls** These are important NPCs that come with their own relationships and stress tracks.
 - **Extras** These are simple NPCs that are essentially part of the environment that can talk. They will probably only have 1-3 dice that they can use.
 
-D6 | Type | Style |Adjective | Person
+D8 | Type | Style |Adjective | Person
 :-: | :-: | :-:
 1 | Tall | Butch | Ambitious | Witch
 2 | Short | Femme | Nervous | Mothperson
 3 | Athletic | Cottagecore |Curious | Fae
 4 | Thicc | Futch | Territorial | Vampire
-5 | Muscular | Goth | Vengeful | Ghost
-6 | Thin | Punk | Greedy | Human
+5 | Muscular | Punk | Sleepy | Ghost
+6 | Thin | Nerdy | Greedy | Human
+7 | Mom-bod | Professional | Loyal | Bigfoot
+8 | Fat | Outdoorsy | Vengeful | Alien
 
 ### Set their relationships
 
