@@ -1,6 +1,6 @@
 # Supernatural Sapphics
 
-Supernatural Sapphics is a role playing game for 2 or more players, one player taking the role of the Top, who runs the game and plays the Dolls (important NPCS), Extras (unimportant NPCS), and Obstacles (nonsentient beings, environmental hazards, or any other non-person barrier preventing progress). The rest of the players take the role of Bottoms, which are characters in the game. This Distortion Dice game is about the messy queer relationships between beings of the veil (vampires, fae, ghosts, cryptids, etc) and the humans fascinated by them. 
+Supernatural Sapphics is a role playing game for 2 or more players, one player taking the role of the Top, who runs the game and plays the Dolls (important NPCS), Extras (unimportant NPCS), and Obstacles (nonsentient beings, environmental hazards, or any other non-person barrier preventing progress). The rest of the players take the role of Bottoms, which are characters in the game. This Distortion Dice game is about the messy queer relationships between beings of the veil (vampires, fae, ghosts, cryptids, etc) and the humans fascinated by them. To play this game you will need several sets of polyhedral dice and optionally tokens to represent Drive.
 
 This is not a game about working together to overcome a common goal, the characters in Supernatural Sapphics can be toxic, selfish, or simply naive and will end up hurting each other. Player vs Player conflict is not only expected, it is ecouraged. While this game does use terms like sapphic, woman, and lesbian, you are not required to play a lesbian, and all types of identities are welcome. However, it is fundamentally a game about disaster queers and their relationships, so if your desire is to play a cishet character, you should take time to examine why that is, and if that character would fit into the stories this game is meant to tell. 
 
@@ -12,7 +12,7 @@ Please remember that while the characters can be toxic, manipulative, and self-c
 
 ## Stats
 
-Stats are the different ways you can interact with the world, and be sexy. Each has an associated harm track that goes up when you get a negative result or extra cost when using that stat.
+Stats are the different ways you can interact with the world, and be sexy. Each has an associated harm track that goes up when you get a negative result or extra cost when using that stat. Distribute a D10, D8, D6, and D4 between your Stats.
 
 - Strong - being physically fit or approaching problems very directly
     - Angry
@@ -27,6 +27,8 @@ Stats are the different ways you can interact with the world, and be sexy. Each 
  
 ### Positive
 
+Positive Aspects are traits that your character has that helps them accomplish their goals. Set one to D8, two to D6, and one to D4.
+
 - Your vibe
     - Choose one: Tough Butch, Confident Femme, Cottagecore, Sapphedemic, etc
 - Your Skills
@@ -38,6 +40,8 @@ Stats are the different ways you can interact with the world, and be sexy. Each 
 
 ### Negative 
 
+Negative Aspects are things that can hold you back. Set one to D8, and two to D6.
+
 - Your type
     - Choose one: Tall women, butches, futches, nerdy women, etc
 - Your pet peeve
@@ -47,13 +51,13 @@ Stats are the different ways you can interact with the world, and be sexy. Each 
 
 ### Relationships 
 
-Stop here, and have the Top run the **Setting up the Game** section before continuing. Each relationship has a die rating and a statement about how you feel about that person. If you are acting in accordance to how you feel you use the die in your pool, otherwise you use a d4 relationship die. The die rating represents how important the relationship is, good or bad, and how sure you are of how you feel about this person.
+Stop here, and have the Top run the **Setting up the Game** section before continuing. Each relationship has a die rating and a statement about how you feel about that person. If you are acting in accordance to how you feel you use the die in your pool, otherwise you use a d4 as the relationship die. The die rating represents how important the relationship is, good or bad, and how sure you are of how you feel about this person.
 
 You start with one relationship at d10, one at d8, two at d4 and the rest at d6.
 
 ### Starting Drive
 
-Each Bottom starts with 1 Drive. Drive can be spent to enhance rolls, change your relationships, or affect scenes, this is described in detail in the Drive section
+Each Bottom starts with 1 Drive. Drive can be spent to enhance rolls, change your relationships, or affect scenes, this is described in more detail in the Drive section
 
 ## Bottom Principles
 
@@ -167,8 +171,8 @@ D6 | Disruption
 Roll on the table below to Create 3-5 NPCs
 
 NPCs come in two forms
-- **Dolls** These are important NPCs that come with their own relationships and stress tracks.
-- **Extras** These are simple NPCs that are essentially part of the environment that can talk. They will probably only have 1-3 dice that they can use.
+- **Dolls** These are important NPCs that come with their own relationships and stress tracks. Create 2 or more Dolls.
+- **Extras** These are simple NPCs that are essentially part of the environment that can talk. Extras do not have Stats and are instead represented by a single die and possibly an Aspect or two. Create 4 or more Extras.
 
 D8 | Type | Style |Adjective | Person
 :-: | :-: | :-:
@@ -181,7 +185,11 @@ D8 | Type | Style |Adjective | Person
 7 | Mom-bod | Professional | Loyal | Bigfoot
 8 | Fat | Outdoorsy | Vengeful | Alien
 
-### Set their relationships
+### Assign Dice
+
+Give Each Doll a D10 Stat, two D6 stats, and one D4 stat, a D8 Aspect, a D6 Aspect, and a D6 Negative Aspect.
+
+Extras are by default a D8 with one die that describes them, and possibly a D6 Aspect or two.
 
 Give each Doll a d8 important relationship with another character. 1 or 2 d6 mildly important relationships. All unlisted relationships are a d4. Extras do not have relationships. At this point, have the Bottoms set their relationships with the Dolls and each other.
 
