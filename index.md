@@ -3,9 +3,9 @@ but you can call me Penny. I'm a very queer asian american nerd. I mostly talk a
 
 [Join the Queertober Game Jam](https://itch.io/jam/queertober)
 
-There's a good chance you're here for the [Titterpig Academy Discord](https://bit.ly/titterpig). So go ahead and click that link. If that's not why you're here, maybe consider joining anyway. We're a bunch of cool people who are passionate about ttrpgs and want to help people learn them.
+Headmistress of [Titterpig Academy](https://titterpigacsdemy.carrd.co) a collective of diverse passionate people creating resources to help you learn more TTRPGs
 
-My games will now be published under the name Transcendent Tapir, which is the name of the game development cooperative I'm starting. Website coming soon, join the [discord](https://tinyurl/transtapir) to follow along, discuss our games, and we are also open to accepting contributors in the form of contractors or owners.
+I'm the founder of [Transcendent Tapir](https://transtspir.games) a queer game development cooperative
 
 Feedback survey for Distorted Domains is [here](https://docs.google.com/forms/d/e/1FAIpQLSfjumq6HyZGry6tnUG3JByZEYAQtUuqe_S2jtpLAghejkrEQw/viewform?usp=sf_link)
 
@@ -20,3 +20,4 @@ Follow me on my Socials
 - [Twitch](https://twitch.tv/pennylescroche)
 - [Threads](https://www.threads.net/@pennylescroche)
 - [Instagram](https://www.instagram.com/pennylescroche/)
+- [Bluesky](https://bsky.app/profile/pennylescroche.transtapir.games)
