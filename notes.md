@@ -211,3 +211,9 @@ Thirst can be lowered by 1 by stopping to drink once per day if you have a sourc
 Hunger can be lowered by 1 by snacking on something once per day.
 
 Stopping to make a meal can lower thirst, hunger, and fatigue and can be done up to 3 times per day if you have the resources. There is a roll to prepare the meal from the ingredients you have that will determine the quality of the meal at the end and the amount that your character enjoys it. Both of these affect the amount that you can heal from your meal.
+
+Fear is only lowered through someone comforting you or by removing the source of the fear.
+
+Injury can be lowered through a good nights rest or through treatment.
+
+Other conditions such as curses, poisons, etc can be incurred which will require specific actions
