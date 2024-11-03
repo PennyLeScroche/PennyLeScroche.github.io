@@ -18,7 +18,7 @@ The veil was lifted, but capitalism didnt care
 
 **Additional Trait, Augment** - specialized assets that modify the way your body works.
 
-#### Superhero/Fighting Game/Shonen inspired Distortion game
+#### Bizarre Battles - Superhero/Fighting Game/Shonen inspired Distortion game
 
 That which makes us different, makes us stronger
 
@@ -182,3 +182,32 @@ Game about taking over your grandmas noodle shop and preserving family recipes
 Card based ttrpg where you play a recipe that changes due to colonization, natural disasters, and relocation
 
 boomer looter shooter
+
+#### Eccentric Explorers?
+
+Survival based Distortion Dice game inspired by Delicious in Dungeon
+
+Stats
+
+- Strength
+- Speed
+- Smarts
+- Spirit
+
+(likely to change)
+
+Stress Tracks
+
+- Fatigue
+- Thirst
+- Hunger
+- Fear
+- Injury
+
+for most checks you rotate through fatigue, thirst, and hunger. For some specific challenges you can take fear and injury.
+
+Fatigue can be lowered by 1 by stopping to rest once per day. Resting for the night can lower fatigue anywhere from 0-2 depending on how well you sleep.
+Thirst can be lowered by 1 by stopping to drink once per day if you have a source of water
+Hunger can be lowered by 1 by snacking on something once per day.
+
+Stopping to make a meal can lower thirst, hunger, and fatigue and can be done up to 3 times per day if you have the resources. There is a roll to prepare the meal from the ingredients you have that will determine the quality of the meal at the end and the amount that your character enjoys it. Both of these affect the amount that you can heal from your meal.
