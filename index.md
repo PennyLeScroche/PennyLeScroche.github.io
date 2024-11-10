@@ -3,15 +3,13 @@ but you can call me Penny. I'm a very queer asian american nerd. I mostly talk a
 
 [Join the Queertober Game Jam](https://itch.io/jam/queertober)
 
-Headmistress of [Titterpig Academy](https://titterpigacsdemy.carrd.co) a collective of diverse passionate people creating resources to help you learn more TTRPGs
+Headmistress of [Titterpig Academy](https://titterpig.academy) a collective of diverse passionate people creating resources to help you learn more TTRPGs
 
 I'm the founder of [Transcendent Tapir](https://transtspir.games) a queer game development cooperative
 
 Feedback survey for Distorted Domains is [here](https://docs.google.com/forms/d/e/1FAIpQLSfjumq6HyZGry6tnUG3JByZEYAQtUuqe_S2jtpLAghejkrEQw/viewform?usp=sf_link)
 
 I've got a [pronouns.page](https://en.pronouns.page/@pennylescroche) if you want to know all my pronouns and what terms I'm comfortable with.
-
-I've also got an [itch](https://pennylescroche.itch.io) page where I put my games when I get around to making a pdf for them
 
 Follow me on my Socials
 - [Mastodon](https://indiepocalypse.social/@pennylescroche)

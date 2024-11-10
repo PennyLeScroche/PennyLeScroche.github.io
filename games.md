@@ -1,6 +1,6 @@
 # Games
 
-Games I have made. All of them are also over on my [itch page](https://pennylescroche.itch.io)
+Games I have made. Some of them are also over on my [itch page](https://pennylescroche.itch.io). Going forward, my games will be published by [Transcendent Tapir](https://transtapir.games) and published on that [itch page](https://transtapir.itch.io)
 
 ### Finished Games
 
