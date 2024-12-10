@@ -57,6 +57,9 @@ Types of Powers:
 - Elemental control
 - Time manipulation
 - Manipulation of senses
+- 
+
+4 weapon ranges: close/melee, reach, projectile, long(sniper)
 
 #### Sci-Fi Space Opera Game
 
