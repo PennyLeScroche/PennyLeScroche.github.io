@@ -58,6 +58,8 @@ Types of Powers:
 - Time manipulation
 - Manipulation of senses
 
+Use Range Bands. Close, Near, Mid, Far. Each weapon has a preferred range (sometimes multiple). Attacking from that range grants you the full asset die. For each band outside of the weapons preferred range, the die is lowered by one, down to a minimum of d4.
+
 #### Sci-Fi Space Opera Game
 
 Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the place you call home
