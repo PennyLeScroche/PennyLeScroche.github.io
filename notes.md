@@ -57,6 +57,9 @@ Types of Powers:
 - Elemental control
 - Time manipulation
 - Manipulation of senses
+- 
+
+4 weapon ranges: close/melee, reach, projectile, long(sniper)
 
 Use Range Bands. Close, Near, Mid, Far. Each weapon has a preferred range (sometimes multiple). Attacking from that range grants you the full asset die. For each band outside of the weapons preferred range, the die is lowered by one, down to a minimum of d4.
 
@@ -220,4 +223,4 @@ Card based ttrpg where you play a recipe that changes due to colonization, natur
 
 boomer looter shooter
 
-
+Grok hack about an interstellar band dealing with the obstacles of touring, recover from stress when you perform.
