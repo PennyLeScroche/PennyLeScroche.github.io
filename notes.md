@@ -1,8 +1,9 @@
 ## Distorted Domains to do
 
-- Negative aspect tables
 - examples of play
 - GM Guidance on adventure design, obstacle creation
+- Arko Station art
+- Random NPC, Obstacle, Asset, etc art
 
 ### Other games
 
@@ -18,19 +19,37 @@ The veil was lifted, but capitalism didnt care
 
 **Additional Trait, Augment** - specialized assets that modify the way your body works.
 
-#### Bizarre Battles - Superhero/Fighting Game/Shonen inspired Distortion game
+#### Bizarre Battles - Superhero/Fighting Game/Shonen/Heroic Fantasy inspired Distortion game
 
 That which makes us different, makes us stronger
 
 Curious Combatants, Weird Warriors, Bizarre Battles
 
-**Stats** - Might, Mental, Marvel, Move OR Strength, Smarts, Spirit, Speed
+**Stats** - Might, Mental, Marvel, Move OR Strength, Smarts, Spirit, Speed OR Force, Focus, Finesse, Fire
+- Strength - Brute Force
+- Smarts - Intellect
+- Speed - Moving quickly or deftly
+- Spirit - Willpower and magical ability
 
 **Aspects** - Your fighting style, your background, your reason for fighting
+- Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user)
+- Background (inventive alchemist, street-wise pickpocket, disgraced knight, lovesick hunter)
+- Your reason for fighting (to learn more about the world, to avenge someone you love, to find a purpose in life, to be the best there is)
 
 **Negative aspects** - A regret you have, a weakness in your technique
+- A regret (someone you couldn't save, someone you pushed away, a goal that slipped from your grasp, something that you left unsaid)
+- A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down)
 
-**Additional trait, special moves** - special fighting techniques that can be used under certain conditions OR by spending inspiration
+**Assets** 
+- Your Signature Weapon (sword, throwing stars, frying pan, gauntlets, ballista, dancing shoes)
+- Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history)
+- various temporary assets such as potions, rations, rope, etc (pick 2 after each resupply)
+
+**Additional trait, special techniques** - special fighting techniques that can be used under certain conditions OR by spending inspiration
+
+Your fighting style aspect is used only when you are able to fight in your ideal conditions. If you have to change tactics or fight in unusual conditions, you must spend inspiration to use it. Special techniques can be magic spells, power ups, complex movements, enhanced attacks, etc. Notably they can allow you to attack outside of your normal range with your full weapon die.
+
+Inspiration and Advancement will be Spark and Stride
 
 Scenarios:
 - Part of an organization protecting this realm from beings of the spirit realm
@@ -43,25 +62,25 @@ Scenarios:
 - You are selected by ancient beings as protectors and they bestow you with tremendous power
 - You pilot specialized machines in order to protect the world 
 - A corrupting evil force has descended upon a once peaceful land, and you answer the call to fight it
-- In a dangerous land where people live in protected you are a team that leaves to gather supplies and trade with other cities
+- In a dangerous land where people live in protected settlements, you are a team that leaves to gather supplies and trade with other cities
 
 Types of Powers:
 - Physically altered bodies
     - Monstrous
     - Mechanical
-    - Enchanted
-    - Shapeshifting
+    - Enchanted (physically more powerful, elemental effects, etc)
+    - Shapeshifting (stretching, squashing, growing, shrinking, etc)
 - Manifestations of the soul
     - Energy weapons
     - Beings with tremendous power
-- Elemental control
-- Time manipulation
-- Manipulation of senses
+- Elemental control (fire, air, water, etc)
+- Physics manipulation (time, space, gravity, etc)
+- Manipulation of senses or emotions
 - 
 
 4 weapon ranges: close/melee, reach, projectile, long(sniper)
 
-Use Range Bands. Close, Near, Mid, Far. Each weapon has a preferred range (sometimes multiple). Attacking from that range grants you the full asset die. For each band outside of the weapons preferred range, the die is lowered by one, down to a minimum of d4.
+Each weapon has a preferred range (sometimes multiple). Attacking from that range grants you the full asset die. For each band outside of the weapons preferred range, the die is lowered by one, down to a minimum of d4. Most weapons cannot be used for a ranger longer than their preferred range.
 
 #### Sci-Fi Space Opera Game
 
@@ -94,11 +113,11 @@ Survival based Distortion Dice game inspired by Delicious in Dungeon
 
 Stats
 
-- Strength
-- Speed
-- Smarts
-- Spirit
-
+- Strength (Effort? Impact)
+- Speed (Expedience? Agility?)
+- Smarts (Expertise? Intellect? Acumen?)
+- Spirit? (magic ability? might not be needed)
+(Impact, Insight, Intuition? works for physical ability, book-knowledge, and situational awareness)
 (likely to change)
 
 Stress Tracks
@@ -108,6 +127,12 @@ Stress Tracks
 - Hunger
 - Fear
 - Injury
+
+**Aspects**
+
+Your Role (navigator, hunter, Researcher, protector, scout, etc)
+Your goal (your reason for exploring, what you're looking for)
+Your background (where are you from, and what did you do before becoming an explorer)
 
 for most checks you rotate through fatigue, thirst, and hunger. For some specific challenges you can take fear and injury.
 
