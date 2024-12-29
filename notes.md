@@ -70,17 +70,16 @@ Scenarios:
 
 Types of Powers:
 - Physically altered bodies
-    - Monstrous
-    - Mechanical
-    - Enchanted (physically more powerful, elemental effects, etc)
-    - Shapeshifting (stretching, squashing, growing, shrinking, etc)
+ - Monstrous
+ - Mechanical
+ - Enchanted (physically more powerful, elemental effects, etc)
+ - Shapeshifting (stretching, squashing, growing, shrinking, etc)
 - Manifestations of the soul
-    - Energy weapons
-    - Beings with tremendous power
+ - Energy weapons
+ - Beings with tremendous power
 - Elemental control (fire, air, water, etc)
 - Physics manipulation (time, space, gravity, etc)
-- Manipulation of senses or emotions
-- 
+- Manipulation of senses or emotions 
 
 4 weapon ranges: close/melee, reach, projectile, long(sniper)
 
@@ -121,7 +120,7 @@ Stats
 - Speed (Expedience? Agility?)
 - Smarts (Expertise? Intellect? Acumen?)
 - Spirit? (magic ability? might not be needed)
-(Impact, Insight, Intuition? works for physical ability, book-knowledge, and situational awareness)
+(Impact, Insight, Intuition? works for physical ability, book-knowledge, and situational awareness. Use Insight and Intution to gather information, use Impact to change your situation or while doing something stressful)
 (likely to change)
 
 Stress Tracks
