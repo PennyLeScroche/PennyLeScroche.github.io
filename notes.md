@@ -148,6 +148,8 @@ Injury can be lowered through a good nights rest or through treatment.
 
 Other conditions such as curses, poisons, etc can be incurred which will require specific actions
 
+Advance only between adventures, or if you can get extended rest in a safe place.
+
 #### Game about magic
 
 has schools of magic such as crystals, runes, and channeling
