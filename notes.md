@@ -12,6 +12,10 @@
 The veil was lifted, but capitalism didnt care
 
 **Stats** - tech, tough, talk, transcend
+- Tech (Use Technology)
+- Tough (Use your physical abilities)
+- Talk (Use your social abilities)
+- Transcend (Use your supernatural abilities)
 
 **Aspects** - Your specialization, Your background, Your reason for fighting back
 
