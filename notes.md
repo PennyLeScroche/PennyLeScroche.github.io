@@ -45,8 +45,8 @@ Curious Combatants, Weird Warriors, Bizarre Battles
 - A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down)
 
 **Assets** 
-- Your Signature Weapon (sword, throwing stars, frying pan, gauntlets, ballista, dancing shoes)
-- Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history)
+- Your Signature Weapon (sword, throwing stars, frying pan, gauntlets, ballista, dancing shoes, these hands)
+- Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope)
 - various temporary assets such as potions, rations, rope, etc (pick 2 after each resupply)
 
 **Additional trait, special techniques** - special fighting techniques that can be used under certain conditions OR by spending inspiration
