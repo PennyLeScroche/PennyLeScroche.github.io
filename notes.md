@@ -1,13 +1,13 @@
-## Distorted Domains to do
+# Distorted Domains to do
 
 - examples of play
 - GM Guidance on adventure design, obstacle creation
 - Arko Station art
 - Random NPC, Obstacle, Asset, etc art
 
-### Other games
+# Other games
 
-#### Corpo Crushers - an occult cyberpunk distortion dice game.
+## Corpo Crushers - an occult cyberpunk distortion dice game.
 
 The veil was lifted, but capitalism didnt care
 
@@ -19,7 +19,7 @@ The veil was lifted, but capitalism didnt care
 
 **Additional Trait, Augment** - specialized assets that modify the way your body works.
 
-#### Bizarre Battles - Superhero/Fighting Game/Shonen/Heroic Fantasy inspired Distortion game
+## Bizarre Battles - Superhero/Fighting Game/Shonen/Heroic Fantasy inspired Distortion game
 
 That which makes us different, makes us stronger
 
@@ -82,7 +82,7 @@ Types of Powers:
 
 Each weapon has a preferred range (sometimes multiple). Attacking from that range grants you the full asset die. For each band outside of the weapons preferred range, the die is lowered by one, down to a minimum of d4. Most weapons cannot be used for a ranger longer than their preferred range.
 
-#### Sci-Fi Space Opera Game
+## Sci-Fi Space Opera Game
 
 Cosmic Cowboys, Nebula Nomads - Space is infinite and unknowable, but its the place you call home
 
@@ -107,7 +107,7 @@ System for hired help
 
 The strangeness of the cosmos changes you? Advancement for Discovery
 
-#### Eccentric Explorers?
+## Eccentric Explorers?
 
 Survival based Distortion Dice game inspired by Delicious in Dungeon
 
@@ -150,7 +150,7 @@ Other conditions such as curses, poisons, etc can be incurred which will require
 
 Advance only between adventures, or if you can get extended rest in a safe place.
 
-#### Game about magic
+## Game about magic
 
 has schools of magic such as crystals, runes, and channeling
 
@@ -171,7 +171,7 @@ has elements that represent sources of arcane powers
 - the sun
 - bodies of water
 
-#### Game about the dangers of colonization and capitalism
+## Game about the dangers of colonization and capitalism (Lost Legends?)
 
 In a fantasy world with lost and forgotten gods. old languages, traditions, songs, and foods have been lost, in favor of more convenient modern alternatives. people don't remember how they used to live, they don't remember where they come from. they know only the simple luxuries of convenience and their simple mind numbing jobs. Sick of the endless cycle, you start to explore abandoned parts of the city and the surrounding area, rediscovering the lost cultures 
 
@@ -192,7 +192,7 @@ Maybe change idea to a semi-cozy exploration based video game
 
 
 
-### Card Game
+## Card Game
 
 Party game of ridiculous characters and prompts.
 
@@ -206,18 +206,18 @@ Dating game theme?
 
 Create web based version too, run entirely client side
 
-### Swords by the creek
+## Swords by the creek
 
 a group of friends revisit the place they used to play as children and imagine how their fantasy world changed as the children after them discovered this place.
 
 a timeline building game.
 
-### Competitive Dice Drafting Game
+## Competitive Dice Drafting Game
 
 Played with multiple polyhedral sets. Each player gets a board that determines what they can do based on the size and color dice that they have. X Actions per turn, where X increases up to a maximum number. (4 seems reasonable?). Board has RPG Elements? unlocking abilities with more dice?
 
 
-### Action game with set session duration
+## Action game with set session duration
 
 5 extraordinary people, 5 legendary items, 6 days to save the world
 
