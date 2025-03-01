@@ -196,3 +196,5 @@ Grok hack about an interstellar band dealing with the obstacles of touring, reco
 micro rpg about being witches familiars
 
 Summoned Saviors of Swiftstead, a fantasy isekai setting for Glamorous Gladiators
+
+Salacious Skullduggery, a game about pirates
