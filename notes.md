@@ -91,6 +91,15 @@ Other conditions such as curses, poisons, etc can be incurred which will require
 
 Advance only between adventures, or if you can get extended rest in a safe place.
 
+**Assets**
+
+assets come in two forms, degradable and consumable.
+Degradable assets are most assets, they degrade over time, represented by their die lowering on a failure. These can be repaired by an appropriate craftsman, or through a roll if you have the appropriate materials.
+
+consumable assets are usable only once. these are things like potions
+
+ammuniton for a ranged weapon or torches could be a degradable asset where the die size represents the quantity left.
+
 ## Game about magic
 
 has schools of magic such as crystals, runes, and channeling
