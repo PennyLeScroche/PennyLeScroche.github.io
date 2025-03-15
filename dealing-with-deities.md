@@ -6,11 +6,13 @@ In this game, the gods are dead, and their children feel they don't get the resp
 
 ## How to Play
 
-When you want to do something with uncertainty, or when you want to use your powers draw cards. You draw two by default and can expend your power tokens to draw more. Compare the highest and lowest card you draw against two (or more) cards drawn in opposition, creating a yes/and, no/but system. If cards are the same face, they are ordered by suit. Hearts are the lowest, followed by diamonds, clubs, and spades being the highest.
+When you want to manipulate a situation, or when you want to use your powers make a draw. To do this, you draw two cards by default and can expend your power tokens to draw more. Compare the highest and lowest card you draw against two (or more) cards drawn in opposition, creating a yes/and, no/but system. If cards are the same face, they are ordered by suit. Hearts are the lowest, followed by diamonds, clubs, and spades being the highest. 
 
 If your highest card is higher than the oppositions you get what you want, if it's lower you do not. If your lowest card is higher than the oppositions you get something good that wasn't what you wanted. If your lowest card is lower something goes wrong.
 
-Expend your power to increase the number of cards drawn. Mortals or other minor obstacles always draw 2 cards. When opposing another demigod, you can both expend power to draw more cards.
+Expend your power to increase the number of cards drawn. Mortals or other minor obstacles always draw 2 cards. When opposing another demigod, you can both expend power to draw more cards. Power can be spent on either side of a conflict so long as your demigod is in the scene, they do not have to be directly involved.
+
+Making a draw happens whenever two forces are directly opposed, or when demigods exert their power. This can look like two demigods arguing and fighting, a demigod convincing a mortal to do something for them, or even two demigods agreeing to a plan while secretly scheming against each other.
 
 ## Create your setting
 
@@ -41,7 +43,7 @@ Before play, it should be decided when and where your game will take place. Have
 
 ## Create your demigods
 
-To create your demigods, each player draws 5 cards from the deck. Each player assigns 1 card to each aspect for your character and your situation prompt, you should have one card leftover.
+To create your demigods, each player draws 5 cards from the deck. Each player assigns 1 card to each aspect for your character and your story seed, you should have one card leftover.
 
 ### What is your domain?
 
@@ -123,15 +125,15 @@ After characters are created, answer the situation questions as a group to creat
 
 ## Scenes
 
-A scene is just like a scene in a play or tv show. It occurs in one location and lasts for a short while, taking us through a small part of the overall story. Each scene, with the exception of the final scene, will give one demigod the spotlight. The player with the spotlight is responsible for establishing and leading the scene centered on what their demigod is doing. Optionally, for a longer session or for smaller groups, give each demigod the spotlight twice.
+A scene is just like a scene in a play or tv show. It occurs in one location and lasts for a short while, taking us through a small part of the overall story. Each scene will give the spotlight to one demigod, except fot the final scene. The player with the spotlight is responsible for establishing and leading the scene centered on what their demigod is doing. Optionally, for a longer session or for smaller groups, give each demigod the spotlight twice. The first scene is started by the most creative player.
 
 ### Establish the Scene
 
-The player with the spotlight will determine who is in the scene and where it is taking place. This includes the demigods, any notable mortals, and how large of a crowd of non-notable mortals are around, if any. Describe what the location looks like what what sort of conflict your demigod is having. Any player not playing a demigod in the scene will be in charge of any mortals present. A scene can have up to 5 notable mortals, and a crowd of nameless mortals.
+The player with the spotlight will determine who is in the scene and where it is taking place. If no existing mortal fits your idea for a scene, create a new Mortal. Invite at least one other demigod into the scene, every demigod should be a guest in a scene at least once before the final scene. Describe the location and what conflict your demigod is having. If you need inspiration, place your Demigod in a scene where they would be in a good position to gain power, and feel free to ask your fellow players for suggestions. Any player not playing a demigod in the scene will be in charge of any mortals present. A scene can have up to 5 notable mortals, and a crowd of nameless mortals.
 
 ### Play through the scene
 
-The spotlight player will begin by describing or acting out what their demigod is doing. The other present demigods and mortals will react to what they are doing, and the spotlight player will react in turn. When any player wishes to change the situation, draw cards to determine how that action resolves. Play goes on until the scene is resolved, or a timer can be set.
+The spotlight player will begin by describing or acting out what their demigod is doing. The other present demigods and mortals will react to what they are doing, and the spotlight player will react in turn. When any player wishes to change the situation, make a draw to determine how that action resolves. Play goes on until the scene is resolved, or a timer can be set.
 
 ### End the Scene
 
@@ -139,11 +141,22 @@ When the scene feels as if it is coming to an end, initiate end of scene procedu
 
 ### The Final Scene
 
-The Final Scene is one with all demigods present. It functions as a climax, or an epilogue, depending on how the story has gone so far. Work together to describe one final scene where all of the demigods are together, and play through it. This is a great time to use any remaining power tokens, as you have no use for them after this.
+The Final Scene is one with all demigods present. It functions as a climax of the story. Work together to describe one final scene where all of the demigods are together, and play through it. Resolve the story, and do one final End of Scene procedure.
+
+### Epilogue
+
+We fast forward into the near future to check in on our demigods. Have each player describe how their demigod is doing based on how many power tokens they have after the final scene.
+
+Power | Result
+-: | :-
+0-1 | They are worse off than they were at the beginning of the story
+2-4 | They are in a similar position as they were at the beginning
+5-7 | They have managed to mildly improve their power and influence over the settlement
+8+  | They are substantially more powerful than at the beginning
 
 ## Mortals
 
-To create a new Mortal draw 2 cards. Assign the suit of one card to Age and the other to Presentation. Assign the value of one card to demeanor and the other to Desire
+To create a new Mortal draw 2 cards. Assign the suit of one card to Age and the other to Presentation. Assign the value of one card to demeanor and the other to Desire. Sometimes this does not work for the fiction, if everyone agrees, draw again to get a new mortal until you find one that is appropriate.
 
 Age
 - ♡: Child
