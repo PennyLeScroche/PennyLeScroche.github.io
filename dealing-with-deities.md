@@ -1,8 +1,8 @@
 # Dealing with Deities
 
-A no-prep GMless card based game about Dysfunctional Demigods.
+A no-prep GMless card based role playing game about Dysfunctional Demigods.
 
-In this game, the gods are dead, and their children feel they don't get the respect they deserve. Despite their infinite lives, demigods tend to be self-absorbed, petty, dramatic, and impulsive. This is ultimately a game about dramatic and selfish people who happen to have powers. These people both love and hate each other, and generally live to manipulate one another and the mortals they run into.
+The gods are dead, and their children feel they don't get the respect they deserve. Despite their infinite lives, demigods tend to be self-absorbed, petty, dramatic, and impulsive. This is ultimately a game about dramatic and selfish people who happen to have powers. These people both love and hate each other, and generally live to manipulate one another and the mortals they run into.
 
 ## How to Play
 
@@ -16,7 +16,7 @@ Making a draw happens whenever two forces are directly opposed, or when demigods
 
 ## Create your setting
 
-Before play, it should be decided when and where your game will take place. Have the most beautiful player flip 2 cards, have the smartest assign one to the Time Period and one to the Location.
+Before play, it should be decided when and where your game will take place. Have the most beautiful player flip 2 cards, have the smartest player assign one to the Time Period and one to the Location.
 
 ### Time Period: 
 
@@ -101,7 +101,7 @@ To create your demigods, each player draws 5 cards from the deck. Each player as
 - ♧: despise you
 - ♤: neglect you
  
-### Your situation prompt
+### Story Seeds
 
 -  A: There is a festival coming up for one of the gods or demigods. Who is it and what does the festival entail?
 -  2: One of the demigods is tired of how they are being treated. Who is it, how are they being treated, and what are you doing about it?
@@ -119,13 +119,13 @@ To create your demigods, each player draws 5 cards from the deck. Each player as
 
 Discard all cards used so far and shuffle them back into the deck before play.
 
-## The Scenario
+## Plant your Seeds
 
-After characters are created, answer the situation questions as a group to create a starting scenario. You may wish to employ a white board, large piece of paper, or digital flowchart to track what is happening and how everyone feels about it. Not all of the situation prompt questions need to be used. If a question feels like it is throwing off what is already established, or if the group decides that they simply don't think it sounds fun, feel free to throw that prompt out. This decision should be unanimous.
+After characters are created, answer the questions in your story seed. You may wish to employ a white board, large piece of paper, or digital flowchart to track what is happening and how everyone feels about it. Not all of the situation prompt questions need to be used. If a question feels like it is throwing off what is already established, or if the group decides that they simply don't think it sounds fun, feel free to throw that prompt out. This decision should be unanimous.
 
 ## Scenes
 
-A scene is just like a scene in a play or tv show. It occurs in one location and lasts for a short while, taking us through a small part of the overall story. Each scene will give the spotlight to one demigod, except fot the final scene. The player with the spotlight is responsible for establishing and leading the scene centered on what their demigod is doing. Optionally, for a longer session or for smaller groups, give each demigod the spotlight twice. The first scene is started by the most creative player.
+A scene is just like a scene in a play or tv show. It occurs in one location and lasts for a short while, taking us through a small part of the overall story. Each scene will give the spotlight to one demigod, except for the final scene which will have all of the demigods together. The player with the spotlight is responsible for establishing and leading the scene centered on what their demigod is doing. Optionally, for a longer session or for smaller groups, give each demigod the spotlight twice. The first scene is started by the most creative player.
 
 ### Establish the Scene
 
