@@ -121,7 +121,7 @@ Discard all cards used so far and shuffle them back into the deck before play.
 
 ## Plant your Seeds
 
-After characters are created, answer the questions in your story seed. You may wish to employ a white board, large piece of paper, or digital flowchart to track what is happening and how everyone feels about it. Not all of the situation prompt questions need to be used. If a question feels like it is throwing off what is already established, or if the group decides that they simply don't think it sounds fun, feel free to throw that prompt out. This decision should be unanimous.
+After characters are created, answer the questions in your story seed. You may wish to employ a white board, large piece of paper, or digital flowchart to track what is happening and how everyone feels about it. Not all of the situation prompt questions need to be used. If a question feels like it is throwing off what is already established, or if the group decides that they simply don't think it sounds fun, feel free to throw that prompt out. This decision should be unanimous. The strongest player answers first.
 
 ## Scenes
 
@@ -137,7 +137,7 @@ The spotlight player will begin by describing or acting out what their demigod i
 
 ### End the Scene
 
-When the scene feels as if it is coming to an end, initiate end of scene procedure. Each demigod will gain power tokens based on the behavior of the mortals whether they were present in the scene or not. Notable mortals count as a single mortal and a crowd of nameless mortals count as 2 mortals for this step. Once power is distributed, the spotlight player will select who gets the spotlight next. If all players have gotten the spotlight, then move on to the final scene.
+When the scene feels as if it is coming to an end, initiate this end of scene procedure. Each demigod gains power tokens based on the behavior of the mortals whether they were present in the scene or not. Notable mortals count as a single mortal and a crowd of nameless mortals count as 2 mortals for this step. Once power is distributed, the spotlight player will select who gets the spotlight next. If all players have gotten the spotlight, then move on to the final scene.
 
 ### The Final Scene
 
