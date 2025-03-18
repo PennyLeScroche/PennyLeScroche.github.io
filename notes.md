@@ -148,7 +148,7 @@ Start the game with rumors, traditions with lost meaning, and lies told to you b
 
 Maybe change idea to a semi-cozy exploration based video game
 
-
+There will be roll tables for what resources can be found based on biome. Fewer natural resources in deserts and in dungeons for example.
 
 ## Card Game
 
