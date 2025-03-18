@@ -108,6 +108,10 @@ consumable assets are usable only once. these are things like potions
 
 ammuniton for a ranged weapon or torches could be a degradable asset where the die size represents the quantity left.
 
+Asset management will be needed 
+
+There will be roll tables for what resources can be found based on biome. Fewer natural resources in deserts and in dungeons for example.
+
 ## Game about magic
 
 has schools of magic such as crystals, runes, and channeling
@@ -148,7 +152,6 @@ Start the game with rumors, traditions with lost meaning, and lies told to you b
 
 Maybe change idea to a semi-cozy exploration based video game
 
-There will be roll tables for what resources can be found based on biome. Fewer natural resources in deserts and in dungeons for example.
 
 ## Card Game
 
