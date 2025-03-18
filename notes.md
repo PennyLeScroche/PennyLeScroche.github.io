@@ -91,6 +91,12 @@ Other conditions such as curses, poisons, etc can be incurred which will require
 
 Advance only between adventures, or if you can get extended rest in a safe place.
 
+Time is your metacurrency, spend it to improve your odds. You start each day with a certain amount of time points, and spend them to show that youre spending extra time on a task, or to show that you dif something to prepare for it earlier. 
+
+excess time can be spent during rest for extra recovery. 
+
+Recovering from stress gives experience.
+
 **Assets**
 
 assets come in two forms, degradable and consumable.
