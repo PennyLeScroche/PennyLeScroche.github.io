@@ -50,6 +50,8 @@ The strangeness of the cosmos changes you? Advancement for Discovery
 
 ## Eccentric Explorers?
 
+maybe Enterprising Expeditions, Exhilarating Excursions
+
 Survival based Distortion Dice game inspired by Delicious in Dungeon
 
 Stats
