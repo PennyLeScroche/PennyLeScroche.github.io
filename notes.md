@@ -75,6 +75,8 @@ Your Role (navigator, hunter, Researcher, protector, scout, etc)
 Your goal (your reason for exploring, what you're looking for)
 Your background (where are you from, and what did you do before becoming an explorer)
 
+Negative aspects are trauma. you start with 2. these can only be reduced during advancement.
+
 for most checks you rotate through fatigue, thirst, and hunger. For some specific challenges you can take fear and injury.
 
 Fatigue can be lowered by 1 by stopping to rest once per day. Resting for the night can lower fatigue anywhere from 0-2 depending on how well you sleep.
@@ -89,13 +91,13 @@ Injury can be lowered through a good nights rest or through treatment.
 
 Other conditions such as curses, poisons, etc can be incurred which will require specific actions
 
-Advance only between adventures, or if you can get extended rest in a safe place.
+Advance only between adventures, or if you can rest for several days in a safe place.
 
 Time is your metacurrency, spend it to improve your odds. You start each day with a certain amount of time points, and spend them to show that youre spending extra time on a task, or to show that you dif something to prepare for it earlier. 
 
 excess time can be spent during rest for extra recovery. 
 
-Recovering from stress gives experience.
+Recovering from stress gives experience, 1xp per die level recovered.
 
 **Assets**
 
