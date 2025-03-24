@@ -52,7 +52,7 @@ The strangeness of the cosmos changes you? Advancement for Discovery
 
 maybe Enterprising Expeditions, Exhilarating Excursions
 
-Survival based Distortion Dice game inspired by Delicious in Dungeon
+Survival based Distortion Dice game inspired by Delicious in Dungeon. Uses the highest and lowest system from Supernatural Sapphics for a higher rate of mixed successes.
 
 Stats
 
@@ -152,8 +152,19 @@ Old gods and lost pieces of culture become assets or aspects, you gain them by f
 
 Start the game with rumors, traditions with lost meaning, and lies told to you by established powers
 
-Maybe change idea to a semi-cozy exploration based video game
+~~Maybe change idea to a semi-cozy exploration based video game~~
 
+Monster Care Squad and Monster Hunter/Witcher inspired. You find spirits and monsters that have been forgotten and are corrupted by the toxic waste produced in the city. You have to find cures and ways to administer them. Once cured, these beings can accept offerings and give you gifts in return. Gifts take the form of new abilities and magic items.
+
+Different medicines and delivery methods
+
+Methods
+- Oral
+- Inhalants
+- Topical
+- Injection
+
+delivery methods will have varying effectiveness based on each entity.
 
 ## Card Game
 
