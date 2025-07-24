@@ -21,6 +21,4 @@ Follow me on my Socials
 - [TikTok](https://tiktok.com/@pennylescroche)
 - [YouTube](https://youtube.com/@pennylescroche)
 - [Twitch](https://twitch.tv/pennylescroche)
-- [Threads](https://www.threads.net/@pennylescroche)
-- [Instagram](https://www.instagram.com/pennylescroche/)
 - [Bluesky](https://bsky.app/profile/pennylescroche.transtapir.games)
