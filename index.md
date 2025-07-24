@@ -3,6 +3,7 @@ but you can call me Penny. I'm a very queer asian american nerd. I mostly talk a
 
 -[Sign the ACLU petition to stop mastercards new policy hurting sex workers](https://action.aclu.org/petition/mastercard-sex-work-work-end-your-unjust-policy)
 -[Sign the Change.org petition to stop payment processor censorship](https://www.change.org/p/tell-mastercard-visa-activist-groups-stop-controlling-what-we-can-watch-read-or-play)
+- [Call your senators](https://www.senate.gov/senators/senators-contact.htm) and tell them to support [S.401 Fair Access to Banking Act](https://www.congress.gov/bill/119th-congress/senate-bill/401)
 - Call Mastercard, Visa, and Paypal to tell them that you don't support payment processor censorship
     - Mastercard (US): 1-800-627-8372
     - Mastercard (Int.): +1-636-722-7111
