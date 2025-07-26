@@ -13,7 +13,7 @@ but you can call me Penny. I'm a very queer asian american nerd. I mostly talk a
 
 Headmistress of [Titterpig Academy](https://titterpig.academy) a collective of diverse passionate people creating resources to help you learn more TTRPGs
 
-I'm the founder of [Transcendent Tapir](https://transtspir.games) a queer game development cooperative
+I'm the founder of [Transcendent Tapir](https://transtapir.games) a queer game development cooperative
 
 I've got a [pronouns.page](https://en.pronouns.page/@pennylescroche) if you want to know all my pronouns and what terms I'm comfortable with.
 
