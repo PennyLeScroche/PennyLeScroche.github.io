@@ -101,6 +101,10 @@ excess time can be spent during rest for extra recovery.
 
 Recovering from stress gives experience, 1xp per die level recovered.
 
+#### Campfire scene
+
+once per expedition, you can declare a campfire scene when you rest. This represents a quiet, peaceful moment in an otherwise stressful journey. During a campfire scene, each character will have a moment of vulnerability, during which they will share something about themselves. All characters will be fully refreshed, all stress tracks will be cleared.
+
 **Assets**
 
 assets come in two forms, degradable and consumable.
@@ -113,6 +117,8 @@ ammuniton for a ranged weapon or torches could be a degradable asset where the d
 Asset management will be needed 
 
 There will be roll tables for what resources can be found based on biome. Fewer natural resources in deserts and in dungeons for example.
+
+
 
 ## Game about magic
 
