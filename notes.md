@@ -232,8 +232,17 @@ boomer looter shooter
 
 Grok hack about an interstellar band dealing with the obstacles of touring, recover from stress when you perform.
 
-micro rpg about being witches familiars
+## Drawing Destiny (dealing with deities system) games
 
+micro rpg about being witches familiars?
+- Tokens represent your magical power, either innate or bestowed from the witch
+- Gain additional through exposure to certain substances/energies
+
+A game about old friends reconnecting and figuring out if they still fit into each others lives
+- Tokens represent the time/energy you spend on something, gain more by successfully doing something selfish
+
+Game about traveling through a magical world and the people you meet in it
+- Tokens represent your resources/care, spend to share them with others, gain them when others share something with you
 Summoned Saviors of Swiftstead, a fantasy isekai setting for Glamorous Gladiators
 
 Salacious Skullduggery, a game about pirates
