@@ -232,17 +232,23 @@ boomer looter shooter
 
 Grok hack about an interstellar band dealing with the obstacles of touring, recover from stress when you perform.
 
+Summoned Saviors of Swiftstead, a fantasy isekai setting for Glamorous Gladiators
+
+Salacious Skullduggery, a game about pirates
+
 ## Drawing Destiny (dealing with deities system) games
 
 micro rpg about being witches familiars?
 - Tokens represent your magical power, either innate or bestowed from the witch
 - Gain additional through exposure to certain substances/energies
+- Epilogue shows the familiars with the witch, most tokens is the most favored familiar and is getting the attention
 
 A game about old friends reconnecting and figuring out if they still fit into each others lives
-- Tokens represent the time/energy you spend on something, gain more by successfully doing something selfish
+- Tokens represent the time/energy you spend on something
+- Gain more tokens when things go your way (the person you desire spends time with you, your old friends invest in your new business idea, people agree to meet up somewhere for old times sake, etc)
+- In the epilogue, each characters happiness with how things went is measured by their remaining tokens
 
 Game about traveling through a magical world and the people you meet in it
 - Tokens represent your resources/care, spend to share them with others, gain them when others share something with you
-Summoned Saviors of Swiftstead, a fantasy isekai setting for Glamorous Gladiators
-
-Salacious Skullduggery, a game about pirates
+- Remaining tokens are carried to the next session.
+- Epilogue: At the end of the campaign, each character gets a scene to describe what they are up to. For 1 token, any other character can add a detail to that scene. Tokens can also be spent to add a scene to see what NPCs are up to.
