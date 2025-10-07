@@ -272,6 +272,9 @@ Wobble: damage resistance
 Legs: Movement and melee damage
 
 Banshee:
-Scream
-Float
-Slash
+Scream: Scream abilities and cc
+Float: movement
+Hair: Cc and whip attacks
+
+Flatwoods monster
+uses organic alien technology
