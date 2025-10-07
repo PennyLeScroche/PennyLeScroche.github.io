@@ -252,3 +252,26 @@ Game about traveling through a magical world and the people you meet in it
 - Tokens represent your resources/care, spend to share them with others, gain them when others share something with you
 - Remaining tokens are carried to the next session.
 - Epilogue: At the end of the campaign, each character gets a scene to describe what they are up to. For 1 token, any other character can add a detail to that scene. Tokens can also be spent to add a scene to see what NPCs are up to.
+
+Co-op shooter where you play cryptids and monsters that fight robo nazis to save the environment.
+Each "class" will have various skill trees that unlock and augment abilities.
+
+Bigfoot
+Fog/Focus: a stealth tree
+Force: Strength tree
+Woop: battle cries
+
+Vampire
+Blood healing
+Fangs damage
+Bat movement
+
+Fresno Crawler
+Light: status effects and healing
+Wobble: damage resistance
+Legs: Movement and melee damage
+
+Banshee:
+Scream
+Float
+Slash
