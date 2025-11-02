@@ -1,6 +1,12 @@
+---
+Title: Creatures of Chaos
+---
+
 Creatures of Chaos is a tabletop roleplaying game about what magical companions get up to when their witch is gone. It uses a GMless card based system called Drawing Destiny.
 
-Preparing your Game: Each Player draws 5 cards and assings one to their story seed, companion type, demeanor, and connection. 
+### Preparing your Game: 
+
+Each Player draws 5 cards and assings one to their story seed, companion type, demeanor, and connection. 
 
 Story Seeds:
 
@@ -71,9 +77,9 @@ Your connection is:
 
 You start with 5 tokens, spend them to channel your magic
 
-How to Play
+### How to Play
 
-Create your creature, and choose 3 story seeds. 
+Create your creature, and choose 3 of the selected story seeds. If you are playing with only 2 players, draw an additional story seed.
 
 Based on the story seeds, create a starting situation. For example, if your story seeds were "I don't feel so good", "need snacks", and "what's that smell" You might come up with a situation where the players feel incredibly hungry and there is a neighbor cooking something. A combination of "My thing is missing", "that's not supposed to be there", and "a gift for the witch" could be turned into a situation where one companion had a gift they wanted to give to the witch, but it has gone missing, and things in the house have moved, so the players believe someone broke in or the house is haunted.
 
