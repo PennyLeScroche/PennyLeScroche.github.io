@@ -87,6 +87,8 @@ The player that has most recently pet an animal leads the first scene as the spo
 
 When you want to do something risky, or channel your magic, you draw cards. If you are drawing against another player, you draw cards and compare against them, if you are drawing against an NPC, environmental obstacle, or any other challenge, a player not in the scene should draw. 
 
+Once cards are drawn, compare the highest and lowest cards on each side. The side with the highest high card gets what they want. The side with the highest low card gets to create a small bonus or complication.
+
 By default, you draw 2 cards. You can draw additional cards for each tag that would help you in your task. If you are using your magic, spend tokens to draw additional cards. 
 
 If you wish to help someone with a challenge, use your tags or spend a token to add additional cards to their draw.
