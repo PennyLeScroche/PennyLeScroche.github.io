@@ -257,8 +257,8 @@ Co-op shooter where you play cryptids and monsters that fight robo nazis to save
 Each "class" will have various skill trees that unlock and augment abilities.
 
 Bigfoot
-Fog/Focus: a stealth tree
-Force: Strength tree
+Focus: a stealth tree
+Knock: Strength tree
 Woop: battle cries
 
 Vampire
@@ -278,3 +278,6 @@ Hair: Cc and whip attacks
 
 Flatwoods monster
 uses organic alien technology
+Eyes - lasers and aura
+Hands - physical movement
+Cloak - defense and tech movement
