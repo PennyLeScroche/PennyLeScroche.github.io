@@ -1,7 +1,7 @@
 # Hi, I'm Khampheng,
 but you can call me Penny. I'm a very queer asian american nerd. I mostly talk about TTRPG stuff, but occasionally delve into my other nerdy interests such as privacy, open source software, indie videogames, and fighting games.
 
-- [Donate to the TTRPG MSF Charity Drive](https://donate.tiltify.com/1e3b52fd-7c24-4903-bae3-dcfff308912f/details)
+- [Donate to the TTRPG MSF Charity Drive](https://tiltify.com/@slovenlytrulls/2026-ttrpgtok-rewards-bundle)
 
 Headmistress of [Titterpig Academy](https://titterpig.academy) a collective of diverse passionate people creating resources to help you learn more TTRPGs
 
