@@ -281,3 +281,10 @@ uses organic alien technology
 Eyes - lasers and aura
 Hands - physical movement
 Cloak - defense and tech movement
+
+
+feypop tragedy game jam idea
+
+promts to define yourself, write it on a piece of paper, then tear a piece if your paper off. 
+
+drop dice onto the page at certain life events, small paper scraps begin to replace the missing piece, aspects get scribbled out and rewritten
