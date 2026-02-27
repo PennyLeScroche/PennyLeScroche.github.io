@@ -290,3 +290,15 @@ promts to define yourself, write it on a piece of paper, then tear a piece if yo
 drop dice onto the page at certain life events, small paper scraps begin to replace the missing piece, aspects get scribbled out and rewritten
 
 game setting where religious leaders race each other 
+
+## Fungal Fixation
+
+Solo/GM-less TTRPG about mushroom hunting
+
+You get resources as a d6 dice pool. 5+ is a success, and 1 lowers the resource pool. Roll as many dice as you want from as many resource pools as you want.
+
+Resources are both your stats and other assets, such as maps, knowledge, binoculars, etc.
+
+Fixation is a special resource that cannot be decreased. It can be used to find mushrooms, but not to overcome other obstacles. You must roll a number of successes equal to or higher than your fixation resource in order to head home.
+
+Each day, you go out in search of mushrooms. You roll to find a mushroom, then decide whether or not to go home. The more time you spend in the forest, the harder it is to find your way home, but the better mushrooms you find. Mushrooms become strange and alien further into the forest. Rarer mushrooms increase your Fixation stat. When you decide you are done hunting for the day, roll against your fixation score. If you beat it, you can make an additional roll to find your way home. Failing to find your way home means no recovering resources, if you run out of resources, you are lost to the forest. Roll on a table of terrible fates.
